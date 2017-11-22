@@ -1,0 +1,1385 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Abysmal Brute</title>
+<author key="Londen, Jack" ref="https://viaf.org/viaf/46764200/">Jack London (1876&ndash;1916)</author>
+<respStmt><resp>Illustrator</resp> <name key="Grant, Gordon" ref="https://viaf.org/viaf/26258355/">Gordon Grant (1875&ndash;1962)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=LCCN>13011303</idno>
+<idno type=OLN>OL7223981M</idno>
+<idno type=OLW>OL74475W</idno>
+<idno type=OCLC>756276912</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20160522125339london</idno>
+<idno type=PGDPProjectId>projectID574c4d6de9011</idno>
+<idno type=PGSrc>55948-London-The-Abysmal-Brute.git</idno>
+<idno type=epub-id>urn:uuid:e6bcd5e4-4082-4461-a738-d20a2a2c3d28</idno>
+<idno type=PGnum>55948</idno>
+<date>2017-11-12</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>Scans are available from The Internet Archive (copy <xref url="https://archive.org/details/abysmalbrute00londrich">1</xref>, <xref url="https://archive.org/details/abysmalbrute00londgoog">2</xref>).
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">#####<!--A short description of this document.--></note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Jack London</author>
+<title>The Abysmal Brute</title>
+<date>1913</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>
+
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Boxers (Sports)</item>
+                <item>Boxing stories</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2017-11-11 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
+
+<pb>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center)">THE
+<lb>ABYSMAL BRUTE
+
+
+
+<pb>
+<div1 id=frontispiece type=Frontispiece>
+
+
+<p><figure id=frontis rend="image(images/frontispiece.jpg)">
+<figDesc>Original Frontispiece.</figDesc>
+</figure>
+
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+
+<titlePage>
+<docTitle><titlePart>THE
+<lb>ABYSMAL BRUTE</titlePart></docTitle>
+
+<byline>BY
+<lb><docAuthor>JACK LONDON</docAuthor>
+<lb>Author of &ldquo;The Call of the Wild,&rdquo; &ldquo;The Sea Wolf,&rdquo; &ldquo;Smoke Bellew,&rdquo; &ldquo;The Night Born,&rdquo; etc.
+</byline>
+
+<docImprint>NEW YORK
+<lb>THE CENTURY CO.
+<lb><docDate>1913</docDate>
+</docImprint>
+</titlePage>
+
+
+
+<pb>
+<div1 id=copyright type=Copyright>
+
+
+
+<p rend="align(center)">Copyright, 1913, by 
+<lb><hi rend=sc>The Century Co.</hi>
+
+<p rend="align(center)">Copyright, 1911, by 
+<lb><hi rend=sc>Street &amp; Smith</hi>. New York
+
+<p rend="align(center)"><hi>Published, May, 1913</hi>
+
+
+
+<pb id=pb1 n=1>
+
+<!-- THE ABYSMAL BRUTE -->
+
+
+
+<pb id=pb3 n=3>
+</front>
+<body>
+<div1 id=ch1 n=I type=Chapter>
+<head type=super>THE ABYSMAL BRUTE</head>
+
+<head>I</head>
+
+
+<p>Sam Stubener ran through his mail carelessly and rapidly. As became a manager of prize-fighters, he was accustomed to a various and bizarre correspondence. Every crank, sport, near sport, and reformer seemed to have ideas to impart to him. From dire threats against his life to milder threats, such as pushing in the front of his face, from rabbit-foot fetishes to lucky horse-shoes, from dinky jerkwater bids to the quarter-of-a-million-dollar offers of irresponsible nobodies, he knew the whole run of the surprise portion of his mail. <pb id=pb4 n=4>In his time having received a razor-strop made from the skin of a lynched negro, and a finger, withered and sun-dried, cut from the body of a white man found in Death Valley, he was of the opinion that never again would the postman bring him anything that could startle him. But this morning he opened a letter that he read a second time, put away in his pocket, and took out for a third reading. It was postmarked from some unheard-of post-office in Siskiyou County, and it ran:
+
+
+    <q rend=block><p>Dear Sam:
+
+    <p>You don&apos;t know me, except my reputation. You come after my time, and I&apos;ve been out of the game a long time. But take it from me I ain&apos;t been asleep. I&apos;ve followed the whole game, and I&apos;ve followed you, from the time Kal Aufman knocked you out to your last handling of Nat Belson, and I take it you&apos;re the niftiest thing in the line of managers that ever came down the pike.
+
+    <pb id=pb5 n=5><p>I got a proposition for you. I got the greatest unknown that ever happened. This ain&apos;t con. It&apos;s the straight goods. What do you think of a husky that tips the scales at two hundred and twenty pounds fighting weight, is twenty-two years old, and can hit a kick twice as hard as my best ever? That&apos;s him, my boy, Young Pat Glendon, that&apos;s the name he&apos;ll fight under. I&apos;ve planned it all out. Now the best thing you can do is hit the first train and come up here.
+
+    <p>I bred him and I trained him. All that I ever had in my head I&apos;ve hammered into his. And maybe you won&apos;t believe it, but he&apos;s added to it. He&apos;s a born fighter. He&apos;s a wonder at time and distance. He just knows to the second and the inch, and he don&apos;t have to think about it at all. His six-inch jolt is more the real sleep medicine than the full-arm swing of most geezers.
+
+    <p>Talk about the hope of the white race. This is him. Come and take a peep. When you was managing Jeffries you was crazy about hunting. Come along and I&apos;ll give you some real hunting and fishing that will <pb id=pb6 n=6>make your moving picture winnings look like thirty cents. I&apos;ll send Young Pat out with you. I ain&apos;t able to get around. That&apos;s why I&apos;m sending for you. I was going to manage him myself. But it ain&apos;t no use. I&apos;m all in and likely to pass out any time. So get a move on. I want you to manage him. There&apos;s a fortune in it for both of you, but I want to draw up the contract.
+
+
+    <p>Yours truly,
+
+    <p>PAT GLENDON.</q>
+
+
+<p>Stubener was puzzled. It seemed, on the face of it, a joke&mdash;the men in the fighting game were notorious jokers&mdash;and he tried to discern the fine hand of Corbett or the big friendly paw of Fitzsimmons in the screed before him. But if it were genuine, he knew it was worth looking into. Pat Glendon was before his time, though, as a cub, he had once seen Old Pat spar at the benefit for Jack Dempsey. Even then he was called <pb id=pb7 n=7>&ldquo;Old&rdquo; Pat, and had been out of the ring for years. He had antedated Sullivan, in the old London Prize Ring Rules, though his last fading battles had been put up under the incoming Marquis of Queensbury Rules.
+
+<p>What ring-follower did not know of Pat Glendon?&mdash;though few were alive who had seen him in his prime, and there were not many more who had seen him at all. Yet his name had come down in the history of the ring, and no sporting writer&apos;s lexicon was complete without it. His fame was paradoxical. No man was honored higher, and yet he had never attained championship honors. He had been unfortunate, and had been known as the unlucky fighter.
+
+<p>Four times he all but won the heavyweight championship, and each time he had deserved to win it. There was the time on the barge, in San Francisco Bay, <pb id=pb8 n=8>when, at the moment he had the champion going, he snapped his own forearm; and on the island in the Thames, sloshing about in six inches of rising tide, he broke a leg at a similar stage in a winning fight; in Texas, too, there was the never-to-be-forgotten day when the police broke in just as he had his man going in all certainty. And finally, there was the fight in the Mechanics&apos; Pavilion in San Francisco, when he was secretly jobbed from the first by a gun-fighting bad man of a referee backed by a small syndicate of bettors. Pat Glendon had had no accidents in that fight, but when he had knocked his man cold with a right to the jaw and a left to the solar plexus, the referee calmly disqualified him for fouling. Every ringside witness, every sporting expert, and the whole sporting world, knew there had been no foul. Yet, like all fighters, Pat Glendon had agreed to <pb id=pb9 n=9>abide by the decision of the referee. Pat abided, and accepted it as in keeping with the rest of his bad luck.
+
+<p>This was Pat Glendon. What bothered Stubener was whether or not Pat had written the letter. He carried it down town with him. What&apos;s become of Pat Glendon? Such was his greeting to all sports that morning. Nobody seemed to know. Some thought he must be dead, but none knew positively. The fight editor of a morning daily looked up the records and was able to state that his death had not been noted. It was from Tim Donovan, that he got a clue.
+
+<p>&ldquo;Sure an&apos; he ain&apos;t dead,&rdquo; said Donovan. &ldquo;How could that be?&mdash;a man of his make that never boozed or blew himself? He made money, and what&apos;s more, he saved it and invested it. Didn&apos;t he have three saloons at the one time? An&apos; wasn&apos;t he makin&apos; slathers of money with <pb id=pb10 n=10>them when he sold out? Now that I&apos;m thinkin&apos;, that was the last time I laid eyes on him&mdash;when he sold them out. &apos;Twas all of twenty years and more ago. His wife had just died. I met him headin&apos; for the Ferry. &lsquo;Where away, old sport?&rsquo; says I. &lsquo;It&apos;s me for the woods,&rsquo; says he. &lsquo;I&apos;ve quit. Good-by, Tim, me boy.&rsquo; And I&apos;ve never seen him from that day to this. Of course he ain&apos;t dead.&rdquo;
+
+<p>&ldquo;You say when his wife died&mdash;did he have any children?&rdquo; Stubener queried.
+
+<p>&ldquo;One, a little baby. He was luggin&apos; it in his arms that very day.&rdquo;
+
+<p>&ldquo;Was it a boy?&rdquo;
+
+<p>&ldquo;How should I be knowin&apos;?&rdquo;
+
+<p>It was then that Sam Stubener reached a decision, and that night found him in a Pullman speeding toward the wilds of Northern California.
+
+
+
+<pb id=pb11 n=11>
+<div1 id=ch2 n=II>
+<head>II</head>
+
+
+<p>Stubener was dropped off the overland at Deer Lick in the early morning, and he kicked his heels for an hour before the one saloon opened its doors. No, the saloonkeeper didn&apos;t know anything about Pat Glendon, had never heard of him, and if he was in that part of the country he must be out beyond somewhere. Neither had the one hanger-on ever heard of Pat Glendon. At the hotel the same ignorance obtained, and it was not until the storekeeper and postmaster opened up that Stubener struck the trail. Oh, yes, Pat Glendon lived out beyond. You took the stage at Alpine, which was forty miles and which was a logging camp. From Alpine, on <pb id=pb12 n=12>horseback, you rode up Antelope Valley and crossed the divide to Bear Creek. Pat Glendon lived somewhere beyond that. The people of Alpine would know. Yes, there was a young Pat. The storekeeper had seen him. He had been in to Deer Lick two years back. Old Pat had not put in an appearance for five years. He bought his supplies at the store, and always paid by check, and he was a white-haired, strange old man. That was all the storekeeper knew, but the folks at Alpine could give him final directions.
+
+<p>It looked good to Stubener. Beyond doubt there was a young Pat Glendon, as well as an old one, living out beyond. That night the manager spent at the logging camp of Alpine, and early the following morning he rode a mountain cayuse up Antelope Valley. He rode over the divide and down Bear Creek. He rode all day, through the wildest, <pb id=pb13 n=13>roughest country he had ever seen, and at sunset turned up Pinto Valley on a trail so stiff and narrow that more than once he elected to get off and walk.
+
+<p>It was eleven o&apos;clock when he dismounted before a log cabin and was greeted by the baying of two huge deer-hounds. Then Pat Glendon opened the door, fell on his neck, and took him in.
+
+<p>&ldquo;I knew ye&apos;d come, Sam, me boy,&rdquo; said Pat, the while he limped about, building a fire, boiling coffee, and frying a big bear-steak. &ldquo;The young un ain&apos;t home the night. We was gettin&apos; short of meat, and he went out about sundown to pick up a deer. But I&apos;ll say no more. Wait till ye see him. He&apos;ll be home in the morn, and then you can try him out. There&apos;s the gloves. But wait till ye see him.
+
+<p>&ldquo;As for me, I&apos;m finished. Eighty-one come next January, an&apos; pretty good for <pb id=pb14 n=14>an ex-bruiser. But I never wasted meself, Sam, nor kept late hours an&apos; burned the candle at all ends. I had a damned good candle, an&apos; made the most of it, as you&apos;ll grant at lookin&apos; at me. And I&apos;ve taught the same to the young un. What do you think of a lad of twenty-two that&apos;s never had a drink in his life nor tasted tobacco? That&apos;s him. He&apos;s a giant, and he&apos;s lived natural all his days. Wait till he takes you out after deer. He&apos;ll break your heart travelin&apos; light, him a carryin&apos; the outfit and a big buck deer belike. He&apos;s a child of the open air, an&apos; winter nor summer has he slept under a roof. The open for him, as I taught him. The one thing that worries me is how he&apos;ll take to sleepin&apos; in houses, an&apos; how he&apos;ll stand the tobacco smoke in the ring. &lsquo;Tis a terrible thing, that smoke, when you&apos;re fighting hard an&apos; gaspin&apos; for air. But no more, Sam, me boy. You&apos;re <pb id=pb15 n=15>tired an&apos; sure should be sleepin&rsquo;. Wait till you see him, that&apos;s all. Wait till you see him.&rdquo;
+
+<p>But the garrulousness of age was on old Pat, and it was long before he permitted Stubener&apos;s eyes to close.
+
+<p>&ldquo;He can run a deer down with his own legs, that young un,&rdquo; he broke out again. &ldquo;&apos;Tis the dandy trainin&apos; for the lungs, the hunter&apos;s life. He don&apos;t know much of else, though, he&apos;s read a few books at times an&apos; poetry stuff. He&apos;s just plain pure natural, as you&apos;ll see when you clap eyes on him. He&apos;s got the old Irish strong in him. Sometimes, the way he moons about, it&apos;s thinkin&apos; strong I am that he believes in the fairies and such-like. He&apos;s a nature lover if ever there was one, an&apos; he&apos;s afeard of cities. He&apos;s read about them, but the biggest he was ever in was Deer Lick. He misliked the many people, and his report was that <pb id=pb16 n=16>they&apos;d stand weedin&apos; out. That was two years agone&mdash;the first and the last time he&apos;s seen a locomotive and a train of cars.
+
+<p>&ldquo;Sometimes it&apos;s wrong I&apos;m thinkin&apos; I am, bringin&apos; him up a natural. It&apos;s given him wind and stamina and the strength o&apos; wild bulls. No city-grown man can have a look-in against him. I&apos;m willin&apos; to grant that Jeffries at his best could &apos;a&apos; worried the young un a bit, but only a bit. The young un could &apos;a&apos; broke him like a straw. An&apos; he don&apos;t look it. That&apos;s the everlasting wonder of it. He&apos;s only a fine-seeming young husky; but it&apos;s the quality of his muscle that&apos;s different. But wait till ye see him, that&apos;s all.
+
+<p>&ldquo;A strange liking the boy has for posies, an&apos; little meadows, a bit of pine with the moon beyond, windy sunsets, or the sun o&apos; morns from the top of old Baldy. An&apos; he has a hankerin&apos; for the drawin&apos; o&apos; pitchers of things, an&apos; of spouting <pb id=pb17 n=17>about &lsquo;Lucifer or night&rsquo; from the poetry books he got from the red-headed school teacher. But &apos;tis only his youngness. He&apos;ll settle down to the game once we get him started, but watch out for grouches when it first comes to livin&apos; in a city for him.
+
+<p>&ldquo;A good thing; he&apos;s woman-shy. They&apos;ll not bother him for years. He can&apos;t bring himself to understand the creatures, an&apos; damn few of them has he seen at that. &apos;Twas the school teacher over at Samson&apos;s Flat that put the poetry stuff in his head. She was clean daffy over the young un, an&apos; he never a-knowin&apos;. A warm-haired girl she was&mdash;not a mountain girl, but from down in the flat-lands&mdash;an&apos; as time went by she was fair desperate, an&apos; the way she went after him was shameless. An&apos; what d&apos;ye think the boy did when he tumbled to it? He was scared as a jackrabbit. He took blankets <pb id=pb18 n=18>an&apos; ammunition an&apos; hiked for tall timber. Not for a month did I lay eyes on him, an&apos; then he sneaked in after dark and was gone in the morn. Nor would he as much as peep at her letters. &lsquo;Burn &apos;em,&rsquo; he said. An&apos; burn &apos;em I did. Twice she rode over on a cayuse all the way from Samson&apos;s Flat, an&apos; I was sorry for the young creature. She was fair hungry for the boy, and she looked it in her face. An&apos; at the end of three months she gave up school an&apos; went back to her own country, an&apos; then it was that the boy came home to the shack to live again.
+
+<p>&ldquo;Women ha&apos; ben the ruination of many a good fighter, but they won&apos;t be of him. He blushes like a girl if anything young in skirts looks at him a second time or too long the first one. An&apos; they all look at him. But when he fights, when he fights!&mdash;God! it&apos;s the old savage Irish that flares in him, an&apos; drives the fists of <pb id=pb19 n=19>him. Not that he goes off his base. Don&apos;t walk away with that. At my best I was never as cool as he. I misdoubt &apos;twas the wrath of me that brought the accidents. But he&apos;s an iceberg. He&apos;s hot an&apos; cold at the one time, a live wire in an ice-chest.&rdquo;
+
+<p>Stubener was dozing, when the old man&apos;s mumble aroused him. He listened drowsily.
+
+<p>&ldquo;I made a man o&apos; him, by God! I made a man o&apos; him, with the two fists of him, an&apos; the upstanding legs of him, an&apos; the straight-seein&apos; eyes. And I know the game in my head, an&apos; I&apos;ve kept up with the times and the modern changes. The crouch? Sure, he knows all the styles an&apos; economies. He never moves two inches when an inch and a half will do the turn. And when he wants he can spring like a buck kangaroo. In-fightin&apos;? Wait till you see. Better than his out-fightin&apos;, <pb id=pb20 n=20>and he could sure &apos;a&apos; sparred with Peter Jackson an&apos; outfooted Corbett in his best. I tell you, I&apos;ve taught&apos;m it all, to the last trick, and he&apos;s improved on the teachin&apos;. He&apos;s a fair genius at the game. An&apos; he&apos;s had plenty of husky mountain men to try out on. I gave him the fancy work and they gave him the sloggin&apos;. Nothing shy or delicate about them. Roarin&apos; bulls an&apos; big grizzly bears, that&apos;s what they are, when it comes to huggin&apos; in a clinch or swingin&apos; rough-like in the rushes. An&apos; he plays with &apos;em. Man, d&apos;ye hear me?&mdash;he plays with them, like you an&apos; me would play with little puppy-dogs.&rdquo;
+
+<p>Another time Stubener awoke, to hear the old man mumbling:
+
+<p>&ldquo;&apos;Tis the funny think he don&apos;t take fightin&apos; seriously. It&apos;s that easy to him he thinks it play. But wait till he&apos;s tapped a swift one. That&apos;s all, wait. An&apos; you&apos;ll see&apos;m throw on the juice in <pb id=pb21 n=21>that cold storage plant of his an&apos; turn loose the prettiest scientific wallopin&apos; that ever you laid eyes on.&rdquo;
+
+<p>In the shivery gray of mountain dawn, Stubener was routed from his blankets by old Pat.
+
+<p>&ldquo;He&apos;s comin&apos; up the trail now,&rdquo; was the hoarse whisper. &ldquo;Out with ye an&apos; take your first peep at the biggest fightin&apos; man the ring has ever seen, or will ever see in a thousand years again.&rdquo;
+
+<p>The manager peered through the open door, rubbing the sleep from his heavy eyes, and saw a young giant walk into the clearing. In one hand was a rifle, across his shoulders a heavy deer under which he moved as if it were weightless. He was dressed roughly in blue overalls and woolen shirt open at the throat. Coat he had none, and on his feet, instead of brogans, were moccasins. Stubener noted that his walk was smooth and catlike, <pb id=pb22 n=22>without suggestion of his two hundred and twenty pounds of weight to which that of the deer was added. The fight manager was impressed from the first glimpse. Formidable the young fellow certainly was, but the manager sensed the strangeness and unusualness of him. He was a new type, something different from the run of fighters. He seemed a creature of the wild, more a night-roaming figure from some old fairy story or folk tale than a twentieth-century youth.
+
+<p>A thing Stubener quickly discovered was that young Pat was not much of a talker. He acknowledged old Pat&apos;s introduction with a grip of the hand but without speech, and silently set to work at building the fire and getting breakfast. To his father&apos;s direct questions he answered in monosyllables, as, for instance, when asked where he had picked up the deer.
+
+<pb id=pb23 n=23><p>&ldquo;South Fork,&rdquo; was all he vouchsafed.
+
+<p>&ldquo;Eleven miles across the mountains,&rdquo; the old man exposited pridefully to Stubener, &ldquo;an&apos; a trail that&apos;d break your heart.&rdquo;
+
+<p>Breakfast consisted of black coffee, sourdough bread, and an immense quantity of bear-meat broiled over the coals. Of this the young fellow ate ravenously, and Stubener divined that both the Glendons were accustomed to an almost straight meat diet. Old Pat did all the talking, though it was not till the meal was ended that he broached the subject he had at heart.
+
+<p>&ldquo;Pat, boy,&rdquo; he began, &ldquo;you know who the gentleman is?&rdquo;
+
+<p>Young Pat nodded, and cast a quick, comprehensive glance at the manager.
+
+<p>&ldquo;Well, he&apos;ll be takin&apos; you away with him and down to San Francisco.&rdquo;
+
+<pb id=pb24 n=24><p>&ldquo;I&apos;d sooner stay here, dad,&rdquo; was the answer.
+
+<p>Stubener felt a prick of disappointment. It was a wild goose chase after all. This was no fighter, eager and fretting to be at it. His huge brawn counted for nothing. It was nothing new. It was the big fellows that usually had the streak of fat.
+
+<p>But old Pat&apos;s Celtic wrath flared up, and his voice was harsh with command<corr>.</corr>
+
+<p>&ldquo;You&apos;ll go down to the cities an&apos; fight, me boy. That&apos;s what I&apos;ve trained you for, an&apos; you&apos;ll do it.&rdquo;
+
+<p>&ldquo;All right,&rdquo; was the unexpected response, rumbled apathetically from the deep chest.
+
+<p>&ldquo;And fight like hell,&rdquo; the old man added.
+
+<p>Again Stubener felt disappointment at the absence of flash and fire in the young man&apos;s eyes as he answered:
+
+<pb id=pb25 n=25><p>&ldquo;All right. When do we start?&rdquo;
+
+<p>&ldquo;Oh, Sam, here, he&apos;ll be wantin&apos; a little huntin&apos; and to fish a bit, as well as to try you out with the gloves.&rdquo; He looked at Sam, who nodded. &ldquo;Suppose you strip and give&apos;m a taste of your quality.&rdquo;
+
+<p>An hour later, Sam Stubener had his eyes opened. An ex-fighter himself, a heavyweight at that, he was even a better judge of fighters, and never had he seen one strip to like advantage.
+
+<p>&ldquo;See the softness of him,&rdquo; old Pat chanted. &ldquo;&apos;Tis the true stuff. Look at the slope of the shoulders, an&apos; the lungs of him. Clean, all clean, to the last drop an&apos; ounce of him. You&apos;re lookin&apos; at a man, Sam, the like of which was never seen before. Not a muscle of him bound. No weight-lifter or Sandow exercise artist there. See the fat snakes of muscles a-crawlin&apos; soft an&apos; lazy-like. Wait till <pb id=pb26 n=26>you see them flashin&apos; like a strikin&apos; rattler. He&apos;s good for forty rounds this blessed instant, or a hundred. Go to it! Time!&rdquo;
+
+<p>They went to it, for three-minute rounds with a minute rests, and Sam Stubener was immediately undeceived. Here was no streak of fat, no apathy, only a lazy, good-natured play of gloves and tricks, with a brusk stiffness and harsh sharpness in the contacts that he knew belonged only to the trained and instinctive fighting man.
+
+<p>&ldquo;Easy, now, easy,&rdquo; old Pat warned. &ldquo;Sam&apos;s not the man he used to be.&rdquo;
+
+<p>This nettled Sam, as it was intended to do, and he played his most famous trick and favorite punch&mdash;a feint for a clinch and a right rip to the stomach. But, quickly as it was delivered, <corr sic=Young>young</corr> Pat saw it, and, though it landed, his body was going away. The next time, his <pb id=pb27 n=27>body did not go away. As the rip started, he moved forward and twisted his left hip to meet it. It was only a matter of several inches, yet it blocked the blow. And thereafter, try as he would, Stubener&apos;s glove got no farther than that hip.
+
+<p>Stubener had roughed it with big men in his time, and, in exhibition bouts, had creditably held his own. But there was no holding his own here. Young Pat played with him, and in the clinches made him feel as powerful as a baby, landing on him seemingly at will, locking and blocking with masterful accuracy, and scarcely noticing or acknowledging his existence. Half the time young Pat seemed to spend in gazing off and out at the landscape in a dreamy sort of way. And right here Stubener made another mistake. He took it for a trick of old Pat&apos;s training, tried to sneak in a short-arm jolt, found <pb id=pb28 n=28>his arm in a lightning lock, and had both his ears cuffed for his pains.
+
+<p>&ldquo;The instinct for a blow,&rdquo; the old man chortled. &ldquo;&apos;Tis not put on, I&apos;m tellin&apos; you. He is a wiz. He knows a blow without the lookin&apos;, when it starts an&apos; where, the speed, an&apos; space, an&apos; niceness of it. An&apos; &apos;tis nothing I ever showed him. &apos;Tis inspiration. He was so born.&rdquo;
+
+<p>Once, in a clinch, the fight manager heeled his glove on young Pat&apos;s mouth, and there was just a hint of viciousness in the manner of doing it. A moment later, in the next clinch, Sam received the heel of the other&apos;s glove on his own mouth. There was nothing snappy about it, but the pressure, stolidly lazy as it was, put his head back till the joints cracked and for the moment he thought his neck was broken. He slacked his body and dropped his arms in token that <pb id=pb29 n=29>the bout was over, felt the instant release, and staggered clear.
+
+<p>&ldquo;He&apos;ll&mdash;he&apos;ll do,&rdquo; he gasped, looking the admiration he lacked the breath to utter.
+
+<p>Old Pat&apos;s eyes were brightly moist with pride and triumph.
+
+<p>&ldquo;An&apos; what will you be thinkin&apos; to happen when some of the gay an&apos; ugly ones tries to rough it on him?&rdquo; he asked.
+
+<p>&ldquo;He&apos;ll kill them, sure,&rdquo; was Stubener&apos;s verdict.
+
+<p>&ldquo;No; he&apos;s too cool for that. But he&apos;ll just hurt them some for their dirtiness.&rdquo;
+
+<p>&ldquo;Let&apos;s draw up the contract,&rdquo; said the manager.
+
+<p>&ldquo;Wait till you know the whole worth of him!&rdquo; Old Pat answered. &ldquo;&apos;Tis strong terms I&apos;ll be makin&apos; you come to. Go for a deer-hunt with the boy over the hills an&apos; learn the lungs and the legs of <pb id=pb30 n=30>him. Then we&apos;ll sign up iron-clad and regular.&rdquo;
+
+<p>Stubener was gone two days on that hunt, and he learned all and more than old Pat had promised, and came back a very weary and very humble man. The young fellow&apos;s innocence of the world had been startling to the case-hardened manager, but he had found him nobody&apos;s fool. Virgin though his mind was, untouched by all save a narrow mountain experience, nevertheless he had proved possession of a natural keenness and shrewdness far beyond the average. In a way he was a mystery to Sam, who could not understand his terrible equanimity of temper. Nothing ruffled him or worried him, and his patience was of an enduring primitiveness. He never swore, not even the futile and emasculated cuss-words of sissy-boys.
+
+<p>&ldquo;I&apos;d swear all right if I wanted to,&rdquo; <pb id=pb31 n=31>he had explained, when challenged by his companion. &ldquo;But I guess I&apos;ve never come to needing it. When I do, I&apos;ll swear, I suppose.&rdquo;
+
+<p>Old Pat, resolutely adhering to his decision, said good-by at the cabin.
+
+<p>&ldquo;It won&apos;t be long, Pat, boy, when I&apos;ll be readin&apos; about you in the papers. I&apos;d like to go along, but I&apos;m afeard it&apos;s me for the mountains till the end.&rdquo;
+
+<p>And then, drawing the manager aside, the old man turned loose on him almost savagely.
+
+<p>&ldquo;Remember what I&apos;ve ben tellin&apos; ye over an&apos; over. The boy&apos;s clean an&apos; he&apos;s honest. He knows nothing of the rottenness of the game. I kept it all away from him, I tell you. He don&apos;t know the meanin&apos; of fake. He knows only the bravery, an&apos; romance an&apos; glory of fightin&apos;, and I&apos;ve filled him up with tales of the old ring heroes, though little enough, God <pb id=pb32 n=32>knows, it&apos;s set him afire. Man, man, I&apos;m tellin&apos; you that I clipped the fight columns from the newspapers to keep it &apos;way from him&mdash;him a-thinkin&apos; I was wantin&apos; them for me scrap book. He don&apos;t know a man ever lay down or threw a fight. So don&apos;t you get him in anything that ain&apos;t straight. Don&apos;t turn the boy&apos;s stomach. That&apos;s why I put in the null and void clause. The first rottenness and the contract&apos;s broke of itself. No snide division of stake-money; no secret arrangements with the movin&apos; pitcher men for guaranteed distance. There&apos;s slathers o&apos; money for the both of you. But play it square or you lose. Understand?
+
+<p>&ldquo;And whatever you&apos;ll be doin&apos; watch out for the women,&rdquo; was old Pat&apos;s parting admonishment, young Pat astride his horse and reining in dutifully to hear. &ldquo;Women is death an&apos; damnation, remember that. But when you do find the one, <pb id=pb33 n=33>the only one, hang on to her. She&apos;ll be worth more than glory an&apos; money. But first be sure, an&apos; when you&apos;re sure, don&apos;t let her slip through your fingers. Grab her with the two hands of you and hang on. Hang on if all the world goes to smash an&apos; smithereens. Pat, boy, a good woman is ... a good woman. &apos;Tis the first word and the last.&rdquo;
+
+
+
+<pb id=pb34 n=34>
+<div1 id=ch3 n=III>
+<head>III</head>
+
+
+<p>Once in San Francisco, Sam Stubener&apos;s troubles began. Not that young Pat had a nasty temper, or was grouchy as his father had feared. On the contrary, he was phenomenally sweet and mild. But he was homesick for his beloved mountains. Also, he was secretly appalled by the city, though he trod its roaring streets imperturbable as a red Indian.
+
+<p>&ldquo;I came down here to fight,&rdquo; he announced, at the end of the first week.
+
+<p>&ldquo;Where&apos;s Jim Hanford?&rdquo;
+
+<p>Stubener whistled.
+
+<p>&ldquo;A big champion like him wouldn&apos;t look at you,&rdquo; was his answer. &ldquo;&lsquo;Go and get a reputation,&rsquo; is what he&apos;d say.&rdquo;
+
+<p>&ldquo;I can lick him.&rdquo;
+
+<pb id=pb35 n=35><p>&ldquo;But the public doesn&apos;t know that. If you licked him you&apos;d be champion of the world, and no champion ever became so with his first fight.&rdquo;
+
+<p>&ldquo;I can.&rdquo;
+
+<p>&ldquo;But the public doesn&apos;t know it, Pat. It wouldn&apos;t come to see you fight. And it&apos;s the crowd that brings the money and the big purses. That&apos;s why Jim Hanford wouldn&apos;t consider you for a second. There&apos;d be nothing in it for him. Besides, he&apos;s getting three thousand a week right now in vaudeville, with a contract for twenty-five weeks. Do you think he&apos;d chuck that for a go with a man no one ever heard of? You&apos;ve got to do something first, make a record. You&apos;ve got to begin on the little local dubs that nobody ever heard of&mdash;guys like Chub Collins, Rough-House Kelly, and the Flying Dutchman. When you&apos;ve put them away, you&apos;re only started on the first <pb id=pb36 n=36>round of the ladder. But after that you&apos;ll go up like a balloon.&rdquo;
+
+<p>&ldquo;I&apos;ll meet those three named in the same ring one after the other,&rdquo; was Pat&apos;s decision. &ldquo;Make the arrangements accordingly.&rdquo;
+
+<p>Stubener laughed.
+
+<p>&ldquo;What&apos;s wrong? Don&apos;t you think I can put them away?&rdquo;
+
+<p>&ldquo;I know you can,&rdquo; Stubener assured him. &ldquo;But it can&apos;t be arranged that way. You&apos;ve got to take them one at a time. Besides, remember, I know the game and I&apos;m managing you. This proposition has to be worked up, and I&apos;m the boy that knows how. If we&apos;re lucky, you may get to the top in a couple of years and be the champion with a mint of money.&rdquo;
+
+<p>Pat sighed at the prospect, then brightened up.
+
+<p>&ldquo;And after that I can retire and go back home to the old man,&rdquo; he said.
+
+<pb id=pb37 n=37><p>Stubener was about to reply, but checked himself. Strange as was this championship material, he felt confident that when the top was reached it would prove very similar to that of all the others who had gone before. Besides, two years was a long way off, and there was much to be done in the meantime.
+
+<p>When Pat fell to moping around his quarters, reading endless poetry books and novels drawn from the public library, Stubener sent him off to live on a Contra Costa ranch across the Bay, under the watchful eye of Spider Walsh. At the end of a week Spider whispered that the job was a cinch. His charge was away and over the hills from dawn till dark, whipping the streams for trout, shooting quail and rabbits, and pursuing the one lone and crafty buck famous for having survived a decade of hunters. It was the Spider who waxed lazy and fat, while <pb id=pb38 n=38>his charge kept himself in condition.
+
+<p>As Stubener expected, his unknown was laughed at by the fight club managers. Were not the woods full of unknowns who were always breaking out with championship rashes? A preliminary, say of four rounds&mdash;yes, they would grant him that. But the main event&mdash;never. Stubener was resolved that young Pat should make his debut in nothing less than a main event, and, by the prestige of his own name he at last managed it. With much misgiving, the Mission Club agreed that Pat Glendon could go fifteen rounds with Rough-House Kelly for a purse of one hundred dollars. It was the custom of young fighters to assume the names of old ring heroes, so no one suspected that he was the son of the great Pat Glendon, while Stubener held his peace. It was a good <pb id=pb39 n=39>press surprise package to spring later.
+
+<p>Came the night of the fight, after a month of waiting. Stubener&apos;s anxiety was keen. His professional reputation was staked that his man would make a showing, and he was astounded to see Pat, seated in his corner a bare five minutes, lose the healthy color from his cheeks, which turned a sickly yellow.
+
+<p>&ldquo;Cheer up, boy,&rdquo; Stubener said, slapping him on the shoulder. &ldquo;The first time in the ring is always strange, and Kelly has a way of letting his opponent wait for him on the chance of getting stage-fright.&rdquo;
+
+<p>&ldquo;It isn&apos;t that,&rdquo; Pat answered. &ldquo;It&apos;s the tobacco smoke. I&apos;m not used to it, and it&apos;s making me fair sick.&rdquo;
+
+<p>His manager experienced the quick shock of relief. A man who turned sick from mental causes, even if he were a <pb id=pb40 n=40>Samson, could never win to place in the prize ring. As for tobacco smoke, the youngster would have to get used to it, that was all.
+
+<p>Young Pat&apos;s entrance into the ring had been met with silence, but when Rough-House Kelly crawled through the ropes his greeting was uproarious. He did not belie his name. He was a ferocious-looking man, black and hairy, with huge, knotty muscles, weighing a full two hundred pounds. Pat looked across at him curiously, and received a savage scowl. After both had been introduced to the audience, they shook hands. And even as their gloves gripped, Kelly ground his teeth, convulsed his face with an expression of rage, and muttered:
+
+<p>&ldquo;You&apos;ve got yer nerve wid yeh.&rdquo; He flung Pat&apos;s hand roughly from his, and hissed, &ldquo;I&apos;ll eat yeh up, ye pup!&rdquo;
+
+<p>The audience laughed at the action, <pb id=pb41 n=41>and it guessed hilariously at what Kelly must have said.
+
+<p>Back in his corner, and waiting the gong, Pat turned to Stubener.
+
+<p>&ldquo;Why is he angry with me?&rdquo; he asked.
+
+<p>&ldquo;He ain&apos;t,&rdquo; Stubener answered. &ldquo;That&apos;s his way, trying to scare you. It&apos;s just mouth-fighting.&rdquo;
+
+<p>&ldquo;It isn&apos;t boxing,&rdquo; was Pat&apos;s comment; and Stubener, with a quick glance, noted that his eyes were as mildly blue as ever.
+
+<p>&ldquo;Be careful,&rdquo; the manager warned, as the gong for the first round sounded and Pat stood up. &ldquo;He&apos;s liable to come at you like a man-eater.&rdquo;
+
+<p>And like a man-eater Kelly did come at him, rushing across the ring in wild fury. Pat, who in his easy way had advanced only a couple of paces, gauged the other&apos;s momentum, side-stepped, and brought his stiff-arched right across to the jaw. Then he stood and looked on with a great <pb id=pb42 n=42>curiosity. The fight was over. Kelly had fallen like a stricken bullock to the floor, and there he lay without movement while the referee, bending over him, shouted the ten seconds in his unheeding ear. When Kelly&apos;s seconds came to lift him, Pat was before them. Gathering the huge, inert bulk of the man in his arms, he carried him to his corner and deposited him on the stool and in the arms of his seconds.
+
+<p>Half a minute later, Kelly&apos;s head lifted and his eyes wavered open. He looked about him stupidly and then to one of his seconds.
+
+<p>&ldquo;What happened?&rdquo; he queried hoarsely. &ldquo;Did the roof fall on me?&rdquo;
+
+
+
+
+<pb id=pb43 n=43>
+<div1 id=ch4 n=IV>
+<head>IV</head>
+
+
+<p>As a result of his fight with Kelly, though the general opinion was that he had won by a fluke, Pat was matched with Rufe Mason. This took place three weeks later, and the Sierra Club audience at Dreamland Rink failed to see what happened. Rufe Mason was a heavyweight, noted locally for his cleverness. When the gong for the first round sounded, both men met in the center of the ring. Neither rushed. Nor did they strike a blow. They felt around each other, their arms bent, their gloves so close together that they almost touched. This lasted for perhaps five seconds. Then it happened, and so quickly that not one in a hundred of the <pb id=pb44 n=44>audience saw. Rufe Mason made a feint with his right. It was obviously not a real feint, but a feeler, a mere tentative threatening of a possible blow. It was at this instant that Pat loosed his punch. So close together were they that the distance the blow traveled was a scant eight inches. It was a short-arm left jolt, and it was accomplished by a twist of the left forearm and a thrust of the shoulder. It landed flush on the point of the chin and the astounded audience saw Rufe Mason&apos;s legs crumple under him as his body sank to the floor. But the referee had seen, and he promptly proceeded to count him out. Again Pat carried his opponent to his corner, and it was ten minutes before Rufe Mason, supported by his seconds, with sagging knees and rolling, glassy eyes, was able to move down the aisle through the stupefied and incredulous audience on the way to his dressing room.
+
+<pb id=pb45 n=45><p>&ldquo;No wonder,&rdquo; he told a reporter, &ldquo;that Rough-House Kelly thought the roof hit him.&rdquo;
+
+<p>After Chub Collins had been put out in the twelfth second of the first round of a fifteen-round contest, Stubener felt compelled to speak to Pat.
+
+<p>&ldquo;Do you know what they&apos;re calling you now?&rdquo; he asked.
+
+<p>Pat shook his head.
+
+<p>&ldquo;One Punch Glendon.&rdquo;
+
+<p>Pat smiled politely. He was little interested in what he was called. He had certain work cut out which he must do ere he could win back to his mountains, and he was phlegmatically doing it, that was all.
+
+<p>&ldquo;It won&apos;t do,&rdquo; his manager continued, with an ominous shake of the head. &ldquo;You can&apos;t go on putting your men out so quickly. You must give them more time.&rdquo;
+
+<pb id=pb46 n=46><p>&ldquo;I&apos;m here to fight, ain&apos;t I?&rdquo; Pat demanded in surprise.
+
+<p>Again Stubener shook his head.
+
+<p>&ldquo;It&apos;s this way, Pat. You&apos;ve got to be big and generous in the fighting game. Don&apos;t get all the other fighters sore. And it&apos;s not fair to the audience. They want a run for their money. Besides, no one will fight you. They&apos;ll all be scared out. And you can&apos;t draw crowds with ten-second fights. I leave it to you. Would you pay a dollar, or five, to see a ten-second fight?&rdquo;
+
+<p>Pat was convinced, and he promised to give future audiences the requisite run for their money, though he stated that, personally, he preferred going fishing to witnessing a hundred rounds of fighting.
+
+<p>And still, Pat had got practically nowhere in the game. The local sports laughed when his name was mentioned. It called to mind funny fights and Rough-House <pb id=pb47 n=47>Kelly&apos;s remark about the roof. Nobody knew how Pat could fight. They had never seen him. Where was his wind, his stamina, his ability to mix it with rough customers through long grueling contests? He had demonstrated nothing but the possession of a lucky punch and a depressing proclivity for flukes.
+
+<p>So it was that his fourth match was arranged with Pete Sosso, a Portuguese fighter from Butchertown, known only for the amazing tricks he played in the ring. Pat did not train for the fight. Instead he made a flying and sorrowful trip to the mountains to bury his father. Old Pat had known well the condition of his heart, and it had stopped suddenly on him.
+
+<p>Young Pat arrived back in San Francisco with so close a margin of time that he changed into his fighting togs <pb id=pb48 n=48>directly from his traveling suit, and even then the audience was kept waiting ten minutes.
+
+<p>&ldquo;Remember, give him a chance,&rdquo; Stubener cautioned him as he climbed through the ropes. &ldquo;Play with him, but do it seriously. Let him go ten or twelve rounds, then get him.&rdquo;
+
+<p>Pat obeyed instructions, and, though it would have been easy enough to put Sosso out, so tricky was he that to stand up to him and not put him out kept his hands full. It was a pretty exhibition, and the audience was delighted. Sosso&apos;s whirlwind attacks, wild feints, retreats, and rushes, required all Pat&apos;s science to protect himself, and even then he did not escape unscathed.
+
+<p>Stubener praised him in the minute-rests, and all would have been well, had not Sosso, in the fourth round, played one of his most spectacular tricks. Pat, in a <pb id=pb49 n=49>mix-up, had landed a hook to Sosso&apos;s jaw, when to his amazement, the latter dropped his hands and reeled backward, eyes rolling, legs bending and giving, in a high state of grogginess. Pat could not understand. It had not been a knock-out blow, and yet there was his man all ready to fall to the mat. Pat dropped his own hands and wonderingly watched his reeling opponent. Sosso staggered away, almost fell, recovered, and staggered obliquely and blindly forward again.
+
+<p>For the first and the last time in his fighting career, Pat was caught off his guard. He actually stepped aside to let the reeling man go by. Still reeling, Sosso suddenly loosed his right. Pat received it full on his jaw with an impact that rattled all his teeth. A great roar of delight went up from the audience. But Pat did not hear. He saw only Sosso before him, <pb id=pb50 n=50>grinning and defiant, and not the least bit groggy. Pat was hurt by the blow, but vastly more outraged by the trick. All the wrath that his father ever had surged up in him. He shook his head as if to get rid of the shock of the blow and steadied himself before his man. It all occurred in the next second. With a feint that drew his opponent, Pat fetched his left to the solar plexus, almost at the same instant whipping his right across to the jaw. The latter blow landed on Sosso&apos;s mouth ere his falling body struck the floor. The club doctors worked half an hour to bring him to. After that they put eleven stitches in his mouth and packed him off in an ambulance.
+
+<p>&ldquo;I&apos;m sorry,&rdquo; Pat told his manager, &ldquo;I&apos;m afraid I lost my temper. I&apos;ll never do it again in the ring. Dad always cautioned me about it. He said it had made him lose more than one battle. I didn&apos;t <pb id=pb51 n=51>know I could lose my temper that way, but now that I know I&apos;ll keep it in control.&rdquo;
+
+<p>And Stubener believed him. He was coming to the stage where he could believe anything about his young charge.
+
+<p>&ldquo;You don&apos;t need to get angry,&rdquo; he said, &ldquo;you&apos;re so thoroughly the master of your man at any stage.&rdquo;
+
+<p>&ldquo;At any inch or second of the fight,&rdquo; Pat affirmed.
+
+<p>&ldquo;And you can put them out any time you want.&rdquo;
+
+<p>&ldquo;Sure I can. I don&apos;t want to boast. But I just seem to possess the ability. My eyes show me the opening that my skill knows how to make, and time and distance are second nature to me. Dad called it a gift, but I thought he was blarneying me. Now that I&apos;ve been up against these men, I guess he was right. <pb id=pb52 n=52>He said I had the mind and muscle correlation.&rdquo;
+
+<p>&ldquo;At any inch or second of the fight,&rdquo; Stubener repeated musingly.
+
+<p>Pat nodded, and Stubener, absolutely believing him, caught a vision of a golden future that should have fetched old Pat out of his grave.
+
+<p>&ldquo;Well, don&apos;t forget, we&apos;ve got to give the crowd a run for its money,&rdquo; he said. &ldquo;We&apos;ll fix it up between us how many rounds a fight should go. Now your next bout will be with the Flying Dutchman. Suppose you let it run the full fifteen and put him out in the last round. That will give you a chance to make a showing as well.&rdquo;
+
+<p>&ldquo;All right, Sam,&rdquo; was the answer.
+
+<p>&ldquo;It will be a test for you,&rdquo; Stubener warned. &ldquo;You may fail to put him out in that last round.&rdquo;
+
+<p>&ldquo;Watch me.&rdquo; Pat paused to put <pb id=pb53 n=53>weight to his promise, and picked up a volume of Longfellow. &ldquo;If I don&apos;t I&apos;ll never read poetry again, and that&apos;s going some.&rdquo;
+
+<p>&ldquo;You bet it is,&rdquo; his manager proclaimed jubilantly, &ldquo;though what you see in such stuff is beyond me.&rdquo;
+
+<p>Pat sighed, but did not reply. In all his life he had found but one person who cared for poetry, and that had been the red-haired school teacher who scared him off into the woods.
+
+
+
+
+
+<pb id=pb54 n=54>
+<div1 id=ch5 n=V>
+<head>V</head>
+
+
+<p>&ldquo;Where are you going?&rdquo; Stubener demanded in surprise, looking at his watch.
+
+<p>Pat, with his hand on the door-knob, paused and turned around.
+
+<p>&ldquo;To the Academy of Sciences,&rdquo; he said. &ldquo;There&apos;s a professor who&apos;s going to give a lecture there on Browning to-night, and Browning is the sort of writer you need assistance with. Sometimes I think I ought to go to night school.&rdquo;
+
+<p>&ldquo;But great Scott, man!&rdquo; exclaimed the horrified manager. &ldquo;You&apos;re on with the Flying Dutchman to-night.&rdquo;
+
+<p>&ldquo;I know it. But I won&apos;t enter the ring a moment before half past nine or quarter to ten. The lecture will be over at <pb id=pb55 n=55>nine fifteen. If you want to make sure, come around and pick me up in your machine.&rdquo;
+
+<p>Stubener shrugged his shoulders helplessly.
+
+<p>&ldquo;You&apos;ve got no kick coming,&rdquo; Pat assured him. &ldquo;Dad used to tell me a man&apos;s worst time was in the hours just before a fight, and that many a fight was lost by a man&apos;s breaking down right there, with nothing to do but think and be anxious. Well, you&apos;ll never need to worry about me that way. You ought to be glad I can go off to a lecture.&rdquo;
+
+<p>And later that night, in the course of watching fifteen splendid rounds, Stubener chuckled to himself more than once at the idea of what that audience of sports would think, did it know that this magnificent young prize-fighter had come to the ring directly from a Browning lecture.
+
+<pb id=pb56 n=56><p>The Flying Dutchman was a young Swede who possessed an unwonted willingness to fight and who was blessed with phenomenal endurance. He never rested, was always on the offensive, and rushed and fought from gong to gong. In the out-fighting his arms whirled about like flails, in the in-fighting he was forever shouldering or half-wrestling and starting blows whenever he could get a hand free. From start to finish he was a whirlwind, hence his name. His failing was lack of judgment in time and distance. Nevertheless he had won many fights by virtue of landing one in each dozen or so of the unending fusillades of punches he delivered. Pat, with strong upon him the caution that he must not put his opponent out, was kept busy. Nor, though he escaped vital damage, could he avoid entirely those eternal flying gloves. But it was good training, <pb id=pb57 n=57>and in a mild way he enjoyed the contest.
+
+<p>&ldquo;Could you get him now?&rdquo; Stubener whispered in his ear during the minute rest at the end of the fifth round.
+
+<p>&ldquo;Sure,&rdquo; was Pat&apos;s answer.
+
+<p>&ldquo;You know he&apos;s never yet been knocked out by any one,&rdquo; Stubener warned a couple of rounds later.
+
+<p>&ldquo;Then I&apos;m afraid I&apos;ll have to break my knuckles,&rdquo; Pat smiled. &ldquo;I know the punch I&apos;ve got in me, and when I land it something&apos;s got to go. If he won&apos;t, my knuckles will.&rdquo;
+
+<p>&ldquo;Do you think you could get him now?&rdquo; Stubener asked at the end of the thirteenth round.
+
+<p>&ldquo;Anytime, I tell you.&rdquo;
+
+<p>&ldquo;Well, then, Pat, let him run to the fifteenth.&rdquo;
+
+<p>In the fourteenth round the Flying Dutchman exceeded himself. At the <pb id=pb58 n=58>stroke of the gong he rushed clear across the ring to the opposite corner where Pat was leisurely getting to his feet. The house cheered, for it knew the Flying Dutchman had cut loose. Pat, catching the fun of it, whimsically decided to meet the terrific onslaught with a wholly passive defense and not to strike a blow. Nor did he strike a blow, nor feint a blow, during the three minutes of whirlwind that followed. He gave a rare exhibition of stalling, sometimes hugging his bowed face with his left arm, his abdomen with his right; at other times, changing as the point of attack changed, so that both gloves were held on either side his face, or both elbows and forearms guarded his mid-section; and all the time moving about, clumsily shouldering, or half-falling forward against his opponent and clogging his efforts; himself never striking nor threatening to strike, the while <pb id=pb59 n=59>rocking with the impacts of the storming blows that beat upon his various guards the devil&apos;s own tattoo.
+
+<p>Those close at the ringside saw and appreciated, but the rest of the audience, fooled, arose to its feet and roared its applause in the mistaken notion that Pat, helpless, was receiving a terrible beating. With the end of the round, the audience, dumbfounded, sank back into its seats as Pat walked steadily to his corner. It was not understandable. He should have been beaten to a pulp, and yet nothing had happened to him.
+
+<p>&ldquo;Now are you going to get him?&rdquo; Stubener queried anxiously.
+
+<p>&ldquo;Inside ten seconds,&rdquo; was Pat&apos;s confident assertion. &ldquo;Watch me.&rdquo;
+
+<p>There was no trick about it. When the gong struck and Pat bounded to his feet, he advertised it unmistakably that for the first time in the fight he was starting <pb id=pb60 n=60>after his man. Not one onlooker misunderstood. The Flying Dutchman read the advertisement, too, and for the first time in his career, as they met in the center of the ring, visibly hesitated. For the fraction of a second they faced each other in position. Then the Flying Dutchman leaped forward upon his man, and Pat, with a timed right-cross, dropped him cold as he leaped.
+
+<p>It was after this battle that Pat Glendon started on his upward rush to fame. The sports and the sporting writers took him up. For the first time the Flying Dutchman had been knocked out. His conqueror had proved a wizard of defense. His previous victories had not been flukes. He had a kick in both his hands. Giant that he was, he would go far. The time was already past, the writers asserted, for him to waste himself on the third-raters and chopping <pb id=pb61 n=61>blocks. Where were Ben Menzies, Rege Rede, Bill Tarwater, and Ernest Lawson? It was time for them to meet this young cub that had suddenly shown himself a fighter of quality. Where was his manager anyway, that he was not issuing the challenges?
+
+<p>And then fame came in a day; for Stubener divulged the secret that his man was none other than the son of Pat Glendon, Old Pat, the old-time ring hero. &ldquo;Young&rdquo; Pat Glendon, he was promptly christened, and sports and writers flocked about him to admire him, and back him, and write him up.
+
+<p>Beginning with Ben Menzies and finishing with Bill Tarwater, he challenged, fought, and knocked out the four second-raters. To do this, he was compelled to travel, the battles taking place in Goldfield, Denver, Texas, and New York. To accomplish it required months, <pb id=pb62 n=62>for the bigger fights were not easily arranged, and the men themselves demanded more time for training.
+
+<p>The second year saw him running to cover and disposing of the half-dozen big fighters that clustered just beneath the top of the heavyweight ladder. On this top, firmly planted, stood &ldquo;Big&rdquo; Jim Hanford, the undefeated world champion. Here, on the top rungs, progress was slower, though Stubener was indefatigable in issuing challenges and in promoting sporting opinion to force the man to fight. Will King was disposed of in England, and Glendon pursued Tom Harrison half way around the world to defeat him on Boxing Day in Australia.
+
+<p>But the purses grew larger and larger. In place of a hundred dollars, such as his first battles had earned him, he was now receiving from twenty to thirty thousand dollars a fight, as well as equally large <pb id=pb63 n=63>sums from the moving picture men. Stubener took his manager&apos;s percentage of all this, according to the terms of the contract old Pat had drawn up, and both he and Glendon, despite their heavy expenses, were waxing rich. This was due, more than anything else, to the clean lives they lived. They were not wasters.
+
+<p>Stubener was attracted to real estate, and his holdings in San Francisco, consisting of building flats and apartment houses, were bigger than Glendon ever dreamed. There was a secret syndicate of bettors, however, which could have made an accurate guess at the size of Stubener&apos;s holdings, while heavy bonus after heavy bonus, of which Glendon never heard, was paid over to his manager by the moving picture men.
+
+<p>Stubener&apos;s most serious task was in maintaining the innocence of his young gladiator. Nor did he find it difficult. <pb id=pb64 n=64>Glendon, who had nothing to do with the business end, was little interested. Besides, wherever his travels took him, he spent his spare time in hunting and fishing. He rarely mingled with those of the sporting world, was notoriously shy and secluded, and preferred art galleries and books of verse to sporting gossip. Also, his trainers and sparring partners were rigorously instructed by the manager to keep their tongues away from the slightest hints of ring rottenness. In every way Stubener intervened between Glendon and the world. He was never even interviewed save in Stubener&apos;s presence.
+
+<p>Only once was Glendon approached. It was just prior to his battle with Henderson, and an offer of a hundred thousand was made to him to throw the fight. It was made hurriedly, in swift whispers, in a hotel corridor, and it was fortunate for the man that Pat controlled his temper <pb id=pb65 n=65>and shouldered past him without reply. He brought the tale of it to Stubener, who said:
+
+<p>&ldquo;It&apos;s only con, Pat. They were trying to josh you.&rdquo; He noted the blue eyes blaze. &ldquo;And maybe worse than that. If they could have got you to fall for it, there might have been a big sensation in the papers that would have finished you. But I doubt it. Such things don&apos;t happen any more. It&apos;s a myth, that&apos;s what it is, that has come down from the middle history of the ring. There has been rottenness in the past, but no fighter or manager of reputation would dare anything of the sort to-day. Why, Pat, the men in the game are as clean and straight as those in professional baseball, than which there is nothing cleaner or straighter.&rdquo;
+
+<p>And all the while he talked, Stubener knew in his heart that the forthcoming fight with Henderson was not to be <pb id=pb66 n=66>shorter than twelve rounds&mdash;this for the moving pictures&mdash;and not longer than the fourteenth round. And he knew, furthermore, so big were the stakes involved, that Henderson himself was pledged not to last beyond the fourteenth.
+
+<p>And Glendon, never approached again, dismissed the matter from his mind and went out to spend the afternoon in taking color photographs. The camera had become his latest hobby. Loving pictures, yet unable to paint, he had compromised by taking up photography. In his hand baggage was one grip packed with books on the subject, and he spent long hours in the dark room, realizing for himself the various processes. Never had there been a great fighter who was as aloof from the fighting world as he. Because he had little to say with those he encountered, he was called sullen and unsocial, <pb id=pb67 n=67>and out of this a newspaper reputation took form that was not an exaggeration so much as it was an entire misconception. Boiled down, his character in print was that of an ox-muscled and dumbly stupid brute, and one callow sporting writer dubbed him the &ldquo;abysmal brute.&rdquo; The name stuck. The rest of the fraternity hailed it with delight, and thereafter Glendon&apos;s name never appeared in print unconnected with it. Often, in a headline or under a photograph, &ldquo;The Abysmal Brute,&rdquo; capitalized and without quotation marks, appeared alone. All the world knew who was this brute. This made him draw into himself closer than ever, while it developed a bitter prejudice against newspaper folk.
+
+<p>Regarding fighting itself, his earlier mild interest grew stronger. The men he now fought were anything but dubs, and victory did not come so easily. They <pb id=pb68 n=68>were picked men, experienced ring generals, and each battle was a problem. There were occasions when he found it impossible to put them out in any designated later round of a fight. Thus, with Sulzberger, the gigantic German, try as he would in the eighteenth round, he failed to get him, in the nineteenth it was the same story, and not till the twentieth did he manage to break through the baffling guard and drop him. Glendon&apos;s increasing enjoyment of the game was accompanied by severer and prolonged training. Never dissipating, spending much of his time on hunting trips in the hills, he was practically always in the pink of condition, and, unlike his father, no unfortunate accidents marred his career. He never broke a bone, nor injured so much as a knuckle. One thing that Stubener noted with secret glee was that his young fighter no <pb id=pb69 n=69>longer talked of going permanently back to his mountains when he had won the championship away from Jim Hanford.
+
+
+
+
+<pb id=pb70 n=70>
+<div1 id=ch6 n=VI>
+<head>VI</head>
+
+
+<p>The consummation of his career was rapidly approaching. The great champion had even publicly intimated his readiness to take on Glendon as soon as the latter had disposed of the three or four aspirants for the championship who intervened. In six months Pat managed to put away Kid McGrath and Philadelphia Jack McBride, and there remained only Nat Powers and Tom Cannam. And all would have been well had not a certain society girl gone adventuring into journalism, and had not Stubener agreed to an interview with the woman reporter of the San Francisco &ldquo;Courier-Journal.&rdquo;
+
+<pb id=pb71 n=71><p>Her work was always published over the name of Maud Sangster, which, by the way, was her own name. The Sangsters were a notoriously wealthy family. The founder, old Jacob Sangster, had packed his blankets and worked as a farm-hand in the West. He had discovered an inexhaustible borax deposit in Nevada, and, from hauling it out by mule-teams, had built a railroad to do the freighting. Following that, he had poured the profits of borax into the purchase of hundreds and thousands of square miles of timber lands in California, Oregon, and Washington. Still later, he had combined politics with business, bought statesmen, judges, and machines, and become a captain of complicated industry. And after that he had died, full of honor and pessimism, leaving his name a muddy blot for future historians to smudge, and also leaving a matter of a <pb id=pb72 n=72>couple of hundreds of millions for his four sons to squabble over. The legal, industrial, and political battles that followed, vexed and amused California for a generation, and culminated in deadly hatred and unspeaking terms between the four sons. The youngest, Theodore, in middle life experienced a change of heart, sold out his stock farms and racing stables, and plunged into a fight with all the corrupt powers of his native state, including most of its millionaires, in a quixotic attempt to purge it of the infamy which had been implanted by old Jacob Sangster.
+
+<p>Maud Sangster was Theodore&apos;s oldest daughter. The Sangster stock uniformly bred fighters among the men and beauties among the women. Nor was Maud an exception. Also, she must have inherited some of the virus of adventure from the Sangster breed, for she had come to womanhood <pb id=pb73 n=73>and done a multitude of things of which no woman in her position should have been guilty. A match in ten thousand, she remained unmarried. She had sojourned in Europe without bringing home a nobleman for spouse, and had declined a goodly portion of her own set at home. She had gone in for outdoor sports, won the tennis championship of the state, kept the society weeklies agog with her unconventionalities, walked from San Mateo to Santa Cruz against time on a wager, and once caused a sensation by playing polo in a men&apos;s team at a private Burlingame practice game. Incidentally, she had gone in for art, and maintained a studio in San Francisco&apos;s Latin Quarter.
+
+<p>All this had been of little moment until her father&apos;s reform attack became acute. Passionately independent, never yet having met the man to whom she could <pb id=pb74 n=74>gladly submit, and bored by those who had aspired, she resented her father&apos;s interference with her way of life and put the climax on all her social misdeeds by leaving home and going to work on the &ldquo;Courier-Journal.&rdquo; Beginning at twenty dollars a week, her salary had swiftly risen to fifty. Her work was principally musical, dramatic, and art criticism, though she was not above mere journalistic stunts if they promised to be sufficiently interesting. Thus she scooped the big interview with Morgan at a time when he was being futilely trailed by a dozen New York star journalists, went down to the bottom of the Golden Gate in a diver&apos;s suit, and flew with Rood, the bird man, when he broke all records of continuous flight by reaching as far as Riverside.
+
+<p>Now it must not be imagined that Maud Sangster was a hard-bitten Amazon. <pb id=pb75 n=75>On the contrary, she was a gray-eyed, slender young woman, of three or four and twenty, of medium stature, and possessing uncommonly small hands and feet for an outdoor woman or any other kind of a woman. Also, far in excess of most outdoor women, she knew how to be daintily feminine.
+
+<p>It was on her own suggestion that she received the editor&apos;s commission to interview Pat Glendon. With the exception of having caught a glimpse, once, of Bob Fitzsimmons in evening dress at the Palace Grill, she had never seen a prizefighter in her life. Nor was she curious to see one&mdash;at least she had not been curious until Young Pat Glendon came to San Francisco to train for his fight with Nat Powers. Then his newspaper reputation had aroused her. The Abysmal Brute!&mdash;it certainly must be worth seeing. From what she read of him she <pb id=pb76 n=76>gleaned that he was a man-monster, profoundly stupid and with the sullenness and ferocity of a jungle beast. True, his published photographs did not show all that, but they did show the hugeness of brawn that might be expected to go with it. And so, accompanied by a staff photographer, she went out to the training quarters at the Cliff House at the hour appointed by Stubener.
+
+<p>That real estate owner was having trouble. Pat was rebellious. He sat, one big leg dangling over the side of the arm chair and Shakespeare&apos;s Sonnets face downward on his knee, orating against the new woman.
+
+<p>&ldquo;What do they want to come butting into the game for?&rdquo; he demanded. &ldquo;It&apos;s not their place. What do they know about it anyway? The men are bad enough as it is. I&apos;m not a holy show. This woman&apos;s coming here to make me <pb id=pb77 n=77>one. I never have stood for women around the training quarters, and I don&apos;t care if she is a reporter.&rdquo;
+
+<p>&ldquo;But she&apos;s not an ordinary reporter,&rdquo; Stubener interposed. &ldquo;You&apos;ve heard of the Sangsters?&mdash;the millionaires?&rdquo;
+
+<p>Pat nodded.
+
+<p>&ldquo;Well, she&apos;s one of them. She&apos;s high society and all that stuff. She could be running with the Blingum crowd now if she wanted to instead of working for wages. Her old man&apos;s worth fifty millions if he&apos;s worth a cent.&rdquo;
+
+<p>&ldquo;Then what&apos;s she working on a paper for?&mdash;keeping some poor devil out of a job.&rdquo;
+
+<p>&ldquo;She and the old man fell out, had a tiff or something, about the time he started to clean up San Francisco. She quit. That&apos;s all&mdash;left home and got a job. And let me tell you one thing, Pat: she can everlastingly sling English. <pb id=pb78 n=78>There isn&apos;t a pen-pusher on the Coast can touch her when she gets going.&rdquo;
+
+<p>Pat began to show interest, and Stubener hurried on.
+
+<p>&ldquo;She writes poetry, too&mdash;the regular la-de-dah stuff, just like you. Only I guess hers is better, because she published a whole book of it once. And she writes up the shows. She interviews every big actor that hits this burg.&rdquo;
+
+<p>&ldquo;I&apos;ve seen her name in the papers,&rdquo; Pat commented.
+
+<p>&ldquo;Sure you have. And you&apos;re honored, Pat, by her coming to interview you. It won&apos;t bother you any. I&apos;ll stick right by and give her most of the dope myself. You know I&apos;ve always done that.&rdquo;
+
+<p>Pat looked his gratitude.
+
+<p>&ldquo;And another thing, Pat: don&apos;t forget you&apos;ve got to put up with this interviewing. It&apos;s part of your business. It&apos;s <pb id=pb79 n=79>big advertising, and it comes free. We can&apos;t buy it. It interests people, draws the crowds, and it&apos;s crowds that pile up the gate receipts.&rdquo; He stopped and listened, then looked at his watch. &ldquo;I think that&apos;s her now. I&apos;ll go and get her and bring her in. I&apos;ll tip it off to her to cut it short, you know, and it won&apos;t take long.&rdquo; He turned in the doorway. &ldquo;And be decent, Pat. Don&apos;t shut up like a clam. Talk a bit to her when she asks you questions.&rdquo;
+
+<p>Pat put the Sonnets on the table, took up a newspaper, and was apparently deep in its contents when the two entered the room and he stood up. The meeting was a mutual shock. When blue eyes met gray, it was almost as if the man and the woman shouted triumphantly to each other, as if each had found something sought and unexpected. But this was for the instant only. Each had anticipated <pb id=pb80 n=80>in the other something so totally different that the next moment the clear cry of recognition gave way to confusion. As is the way of women, she was the first to achieve control, and she did it without having given any outward sign that she had ever lost it. She advanced most of the distance across the floor to meet Glendon. As for him, he scarcely knew how he stumbled through the introduction. Here was a woman, a WOMAN. He had not known that such a creature could exist. The few women he had noticed had never prefigured this. He wondered what Old Pat&apos;s judgment would have been of her, if she was the sort he had recommended to hang on to with both his hands. He discovered that in some way he was holding her hand. He looked at it, curious and fascinated, marveling at its fragility.
+
+<p>She, on the other hand, had proceeded <pb id=pb81 n=81>to obliterate the echoes of that first clear call. It had been a peculiar experience, that was all, this sudden out-rush of her toward this strange man. For was not he the abysmal brute of the prize-ring, the great, fighting, stupid bulk of a male animal who hammered up his fellow males of the same stupid order? She smiled at the way he continued to hold her hand.
+
+<p>&ldquo;I&apos;ll have it back, please, Mr. Glendon,&rdquo; she said. &ldquo;I ... I really need it, you know.&rdquo;
+
+<p>He looked at her blankly, followed her gaze to her imprisoned hand, and dropped it in a rush of awkwardness that sent the blood in a manifest blush to his face.
+
+<p>She noted the blush, and the thought came to her that he did not seem quite the uncouth brute she had pictured. She could not conceive of a brute blushing <pb id=pb82 n=82>at anything. And also, she found herself pleased with the fact that he lacked the easy glibness to murmur an apology. But the way he devoured her with his eyes was disconcerting. He stared at her as if in a trance, while his cheeks flushed even more redly.
+
+<p>Stubener by this time had fetched a chair for her, and Glendon automatically sank down into his.
+
+<p>&ldquo;He&apos;s in fine shape, Miss Sangster, in fine shape,&rdquo; the manager was saying. &ldquo;That&apos;s right, isn&apos;t it, Pat? Never felt better in your life?&rdquo;
+
+<p>Glendon was bothered by this. His brows contracted in a troubled way, and he made no reply.
+
+<p>&ldquo;I&apos;ve wanted to meet you for a long time, Mr. Glendon,&rdquo; Miss Sangster said. &ldquo;I never interviewed a pugilist before, so if I don&apos;t go about it expertly you&apos;ll forgive me, I am sure.&rdquo;
+
+<pb id=pb83 n=83><p>&ldquo;Maybe you&apos;d better start in by seeing him in action,&rdquo; was the manager&apos;s suggestion. &ldquo;While he&apos;s getting into his fighting togs I can tell you a lot about him&mdash;fresh stuff, too. We&apos;ll call in Walsh, Pat, and go a couple of rounds.&rdquo;
+
+<p>&ldquo;We&apos;ll do nothing of the sort,&rdquo; Glendon growled roughly, in just the way an abysmal brute should. &ldquo;Go ahead with the interview.&rdquo;
+
+<p>The business went ahead unsatisfactorily. Stubener did most of the talking and suggesting, which was sufficient to irritate Maud Sangster, while Pat volunteered nothing. She studied his fine countenance, the eyes clear blue and wide apart, the well-modeled, almost aquiline, nose, the firm, chaste lips that were sweet in a masculine way in their curl at the corners and that gave no hint of any sullenness. It was a baffling personality, she concluded, if what the papers said of <pb id=pb84 n=84>him was so. In vain she sought for earmarks of the brute. And in vain she attempted to establish contacts. For one thing, she knew too little about prize-fighters and the ring, and whenever she opened up a lead it was promptly snatched away by the information-oozing Stubener.
+
+<p>&ldquo;It must be most interesting, this life of a pugilist,&rdquo; she said once, adding with a sigh, &ldquo;I wish I knew more about it. Tell me: why do you fight?&mdash;Oh, aside from money reasons.&rdquo; (This latter to forestall Stubener). &ldquo;Do you enjoy fighting? Are you stirred by it, by pitting yourself against other men? I hardly know how to express what I mean, so you must be patient with me.&rdquo;
+
+<p>Pat and Stubener began speaking together, but for once Pat bore his manager down.
+
+<p>&ldquo;I didn&apos;t care for it at first&mdash;&rdquo;
+
+<pb id=pb85 n=85><p>&ldquo;You see, it was too dead easy for him,&rdquo; Stubener interrupted.
+
+<p>&ldquo;But later,&rdquo; Pat went on, &ldquo;when I encountered the better fighters, the real big clever ones, where I was more&mdash;&rdquo;
+
+<p>&ldquo;On your mettle?&rdquo; she suggested.
+
+<p>&ldquo;Yes; that&apos;s it, more on my mettle, I found I did care for it ... a great deal, in fact. But still, it&apos;s not so absorbing to me as it might be. You see, while each battle is a sort of problem which I must work out with my wits and muscle, yet to me the issue is never in doubt&mdash;&rdquo;
+
+<p>&ldquo;He&apos;s never had a fight go to a decision,&rdquo; Stubener proclaimed. &ldquo;He&apos;s won every battle by the knock-out route.&rdquo;
+
+<p>&ldquo;And it&apos;s this certainty of the outcome that robs it of what I imagine must be its finest thrills,&rdquo; Pat concluded.
+
+<p>&ldquo;Maybe you&apos;ll get some of them <pb id=pb86 n=86>thrills when you go up against Jim Hanford,&rdquo; said the manager.
+
+<p>Pat smiled, but did not speak.
+
+<p>&ldquo;Tell me some more,&rdquo; she urged, &ldquo;more about the way you feel when you are fighting.&rdquo;
+
+<p>And then Pat amazed his manager, Miss Sangster, and himself, by blurting out:
+
+<p>&ldquo;It seems to me I don&apos;t want to talk with you on such things. It&apos;s as if there are things more important for you and me to talk about. I&mdash;&rdquo;
+
+<p>He stopped abruptly, aware of what he was saying but unaware of why he was saying it.
+
+<p>&ldquo;Yes,&rdquo; she cried eagerly. &ldquo;That&apos;s it. That is what makes a good interview&mdash;the real personality, you know.&rdquo;
+
+<p>But Pat remained tongue-tied, and Stubener wandered away on a statistical comparison of his champion&apos;s weights, <pb id=pb87 n=87>measurements, and expansions with those of Sandow, the Terrible Turk, Jeffries, and the other modern strong men. This was of little interest to Maud Sangster, and she showed that she was bored. Her eyes chanced to rest on the Sonnets. She picked the book up and glanced inquiringly at Stubener.
+
+<p>&ldquo;That&apos;s Pat&apos;s,&rdquo; he said. &ldquo;He goes in for that kind of stuff, and color photography, and art exhibits, and such things. But for heaven&apos;s sake don&apos;t publish anything about it. It would ruin his reputation.&rdquo;
+
+<p>She looked accusingly at Glendon, who immediately became awkward. To her it was delicious. A shy young man, with the body of a giant, who was one of the kings of bruisers, and who read poetry, and went to art exhibits, and experimented with color photography! Of a surety there was no abysmal brute here. <pb id=pb88 n=88>His very shyness she divined now was due to sensitiveness and not stupidity. Shakespeare&apos;s Sonnets! This was a phase that would bear investigation. But Stubener stole the opportunity away and was back chanting his everlasting statistics.
+
+<p>A few minutes later, and most unwittingly, she opened up the biggest lead of all. That first sharp attraction toward him had begun to stir again after the discovery of the Sonnets. The magnificent frame of his, the handsome face, the chaste lips, the clear-looking eyes, the fine forehead which the short crop of blond hair did not hide, the aura of physical well-being and cleanness which he seemed to emanate&mdash;all this, and more that she sensed, drew her as she had never been drawn by any man, and yet through her mind kept running the nasty rumors that she had heard only <pb id=pb89 n=89>the day before at the &ldquo;Courier-Journal&rdquo; office.
+
+<p>&ldquo;You were right,&rdquo; she said. &ldquo;There is something more important to talk about. There is something in my mind I want you to reconcile for me. Do you mind?&rdquo;
+
+<p>Pat shook his head.
+
+<p>&ldquo;If I am frank?&mdash;abominably frank? I&apos;ve heard the men, sometimes, talking of particular fights and of the betting odds, and, while I gave no heed to it at the time, it seemed to me it was firmly agreed that there was a great deal of trickery and cheating connected with the sport. Now, when I look at you, for instance, I find it hard to understand how you can be a party to such cheating. I can understand your liking the sport for a sport, as well as for the money it brings you, but I can&apos;t understand&mdash;&rdquo;
+
+<p>&ldquo;There&apos;s nothing to understand,&rdquo; <pb id=pb90 n=90>Stubener broke in, while Pat&apos;s lips were wreathed in a gentle, tolerant smile. &ldquo;It&apos;s all fairy tales, this talk about faking, about fixed fights, and all that rot. There&apos;s nothing to it, Miss Sangster, I assure you. And now let me tell you about how I discovered Mr. Glendon. It was a letter I got from his father&mdash;&rdquo;
+
+<p>But Maud Sangster refused to be side-tracked, and addressed herself to Pat.
+
+<p>&ldquo;Listen. I remember one case particularly. It was some fight that took place several months ago&mdash;I forget the contestants. One of the editors of the &ldquo;Courier-Journal&rdquo; told me he intended to make a good winning. He didn&apos;t hope; he said he intended. He said he was on the inside and was betting on the number of rounds. He told me the fight would end in the nineteenth. This was the night before. And the next day he triumphantly called my attention to the <pb id=pb91 n=91>fact that it had ended in that very round. I didn&apos;t think anything of it one way or the other. I was not interested in prize-fighting then. But I am now. At the time it seemed quite in accord with the vague conception I had about fighting. So you see, it isn&apos;t all fairy tales, is it?&rdquo;
+
+<p>&ldquo;I know that fight,&rdquo; Glendon said. &ldquo;It was Owen and Murgweather. And it did end in the nineteenth round, Sam. And she said she heard that round named the day before. How do you account for it, Sam?&rdquo;
+
+<p>&ldquo;How do you account for a man picking a lucky lottery ticket?&rdquo; the manager evaded, while getting his wits together to answer. &ldquo;That&apos;s the very point. Men who study form and condition and seconds and rules and such things often pick the number of rounds, just as men have been known to pick hundred-to-one shots in the races. And don&apos;t forget one thing: <pb id=pb92 n=92>for every man that wins, there&apos;s another that loses, there&apos;s another that didn&apos;t pick right. Miss Sangster, I assure you, on my honor, that faking and fixing in the fight game is ... is non-existent.&rdquo;
+
+<p>&ldquo;What is your opinion, Mr. Glendon?&rdquo; she asked.
+
+<p>&ldquo;The same as mine,&rdquo; Stubener snatched the answer. &ldquo;He knows what I say is true, every word of it. He&apos;s never fought anything but a straight fight in his life. Isn&apos;t that right, Pat?&rdquo;
+
+<p>&ldquo;Yes; it&apos;s right,&rdquo; Pat affirmed, and the peculiar thing to Maud Sangster was that she was convinced he spoke the truth.
+
+<p>She brushed her forehead with her hand, as if to rid herself of the bepuzzlement that clouded her brain.
+
+<p>&ldquo;Listen,&rdquo; she said. &ldquo;Last night the same editor told me that your forthcoming <pb id=pb93 n=93>fight was arranged to the very round in which it would end.&rdquo;
+
+<p>Stubener was verging on a panic, but Pat&apos;s speech saved him from replying.
+
+<p>&ldquo;Then the editor lies,&rdquo; Pat&apos;s voice boomed now for the first time.
+
+<p>&ldquo;He did not lie before, about that other fight,&rdquo; she challenged.
+
+<p>&ldquo;What round did he say my fight with Nat Powers would end in?&rdquo;
+
+<p>Before she could answer, the manager was into the thick of it.
+
+<p>&ldquo;Oh, rats, Pat!&rdquo; he cried. &ldquo;Shut up. It&apos;s only the regular run of ring rumors. Let&apos;s get on with this interview.&rdquo;
+
+<p>He was ignored by Glendon, whose eyes, bent on hers, were no longer mildly blue, but harsh and imperative. She was sure now that she had stumbled on something tremendous, something that would explain all that had baffled her. At the same time she thrilled to the <pb id=pb94 n=94>mastery of his voice and gaze. Here was a male man who would take hold of life and shake out of it what he wanted.
+
+<p>&ldquo;What round did the editor say?&rdquo; Glendon reiterated his demand.
+
+<p>&ldquo;For the love of Mike, Pat, stop this foolishness,&rdquo; Stubener broke in.
+
+<p>&ldquo;I wish you would give me a chance to answer,&rdquo; Maud Sangster said.
+
+<p>&ldquo;I guess I&apos;m able to talk with Miss Sangster,&rdquo; Glendon added. &ldquo;You get out, Sam. Go off and take care of that photographer.&rdquo;
+
+<p>They looked at each other for a tense, silent moment, then the manager moved slowly to the door, opened it, and turned his head to listen.
+
+<p>&ldquo;And now what round did he say?&rdquo;
+
+<p>&ldquo;I hope I haven&apos;t made a mistake,&rdquo; she said tremulously, &ldquo;but I am very sure that he said the sixteenth round.&rdquo;
+
+<p>She saw surprise and anger leap into <pb id=pb95 n=95>Glendon&apos;s face, and the anger and accusation in the glance he cast at his manager, and she knew the blow had driven home.
+
+<p>And there was reason for his anger. He knew he had talked it over with Stubener, and they had reached a decision to give the audience a good run for its money without unnecessarily prolonging the fight, and to end it in the sixteenth. And here was a woman, from a newspaper office, naming the very round.
+
+<p>Stubener, in the doorway, looked limp and pale, and it was evident he was holding himself together by an effort.
+
+<p>&ldquo;I&apos;ll see you later,&rdquo; Pat told him. &ldquo;Shut the door behind you.&rdquo;
+
+<p>The door closed, and the two were left alone. Glendon did not speak. The expression on his face was frankly one of trouble and perplexity.
+
+<p>&ldquo;Well?&rdquo; she asked.
+
+<p>He got up and towered above her, then <pb id=pb96 n=96>sat down again, moistening his lips with his tongue.
+
+<p>&ldquo;I&apos;ll tell you one thing,&rdquo; he finally said &ldquo;The fight won&apos;t end in the sixteenth round.&rdquo;
+
+<p>She did not speak, but her unconvinced and quizzical smile hurt him.
+
+<p>&ldquo;You wait and see, Miss Sangster, and you&apos;ll see that editor man is mistaken.&rdquo;
+
+<p>&ldquo;You mean the program is to be changed?&rdquo; she queried audaciously.
+
+<p>He quivered to the cut of her words.
+
+<p>&ldquo;I am not accustomed to lying,&rdquo; he said stiffly, &ldquo;even to women.&rdquo;
+
+<p>&ldquo;Neither have you to me, nor have you denied the program is to be changed. Perhaps, Mr. Glendon, I am stupid, but I fail to see the difference in what number the final round occurs so long as it is predetermined and known.&rdquo;
+
+<p>&ldquo;I&apos;ll tell you that round, and not another soul shall know.&rdquo;
+
+<pb id=pb97 n=97><p>She shrugged her shoulders and smiled.
+
+<p>&ldquo;It sounds to me very much like a racing tip. They are always given that way, you know. Furthermore, I am not quite stupid, and I know there is something wrong here. Why were you made angry by my naming the round? Why were you angry with your manager? Why did you send him from the room?&rdquo;
+
+<p>For reply, Glendon walked over to the window, as if to look out, where he changed his mind and partly turned, and she knew, without seeing, that he was studying her face. He came back and sat down.
+
+<p>&ldquo;You&apos;ve said I haven&apos;t lied to you, Miss Sangster, and you were right. I haven&apos;t.&rdquo; He paused, groping painfully for a correct statement of the situation. &ldquo;Now do you think you can believe what I am going to tell you? Will you take the word of a ... prize-fighter?&rdquo;
+
+<pb id=pb98 n=98><p>She nodded gravely, looking him straight in the eyes and certain that what he was about to tell was the truth.
+
+<p>&ldquo;I&apos;ve always fought straight and square. I&apos;ve never touched a piece of dirty money in my life, nor attempted a dirty trick. Now I can go on from that. You&apos;ve shaken me up pretty badly by what you told me. I don&apos;t know what to make of it. I can&apos;t pass a snap judgment on it. I don&apos;t know. But it looks bad. That&apos;s what troubles me. For see you, Stubener and I have talked this fight over, and it was understood between us that I would end the fight in the sixteenth round. Now you bring the same word. How did that editor know? Not from me. Stubener must have let it out ... unless....&rdquo; He stopped to debate the problem. &ldquo;Unless that editor is a lucky guesser. I can&apos;t make up my mind about it. I&apos;ll have to keep my eyes <pb id=pb99 n=99>open and wait and learn. Every word I&apos;ve given you is straight, and there&apos;s my hand on it.&rdquo;
+
+<p>Again he towered out of his chair and over to her. Her small hand was gripped in his big one as she arose to meet him, and after a fair, straight look into the eyes between them, both glanced unconsciously at the clasped hands. She felt that she had never been more aware that she was a woman. The sex emphasis of those two hands&mdash;the soft and fragile feminine and the heavy, muscular masculine&mdash;was startling. Glendon was the first to speak.
+
+<p>&ldquo;You could be hurt so easily,&rdquo; he said; and at the same time she felt the firmness of his grip almost caressingly relax.
+
+<p>She remembered the old Prussian king&apos;s love for giants, and laughed at the incongruity of the thought-association as she withdrew her hand.
+
+<pb id=pb100 n=100><p>&ldquo;I am glad you came here to-day,&rdquo; he said, then hurried on awkwardly to make an explanation which the warm light of admiration in his eyes belied. &ldquo;I mean because maybe you have opened my eyes to the crooked dealing that has been going on.&rdquo;
+
+<p>&ldquo;You have surprised me,&rdquo; she urged. &ldquo;It seemed to me that it is so generally understood that prize-fighting is full of crookedness, that I cannot understand how you, one of its chief exponents, could be ignorant of it. I thought as a matter of course that you would know all about it, and now you have convinced me that you never dreamed of it. You must be different from other fighters.&rdquo;
+
+<p>He nodded his head.
+
+<p>&ldquo;That explains it, I guess. And that&apos;s what comes of keeping away from it&mdash;from the other fighters, and promoters, and sports. It was easy to pull the wool <pb id=pb101 n=101>over my eyes. Yet it remains to be seen whether it has really been pulled over or not. You see, I am going to find out for myself.&rdquo;
+
+<p>&ldquo;And change it?&rdquo; she queried, rather breathlessly, convinced somehow that he could do anything he set out to accomplish.
+
+<p>&ldquo;No; quit it,&rdquo; was his answer. &ldquo;If it isn&apos;t straight I won&apos;t have anything more to do with it. And one thing is certain: this coming fight with Nat Powers won&apos;t end in the sixteenth round. If there is any truth in that editor&apos;s tip, they&apos;ll all be fooled. Instead of putting him out in the sixteenth, I&apos;ll let the fight run on into the twenties. You wait and see.&rdquo;
+
+<p>&ldquo;And I&apos;m not to tell the editor?&rdquo;
+
+<p>She was on her feet now, preparing to go.
+
+<p>&ldquo;Certainly not. If he is only guessing, <pb id=pb102 n=102>let him take his chances. And if there&apos;s anything rotten about it he deserves to lose all he bets. This is to be a little secret between you and me. I&apos;ll tell you what I&apos;ll do. I&apos;ll name the round to you. I won&apos;t run it into the twenties. I&apos;ll stop Nat Powers in the eighteenth.&rdquo;
+
+<p>&ldquo;And I&apos;ll not whisper it,&rdquo; she assured him.
+
+<p>&ldquo;I&apos;d like to ask you a favor,&rdquo; he said tentatively. &ldquo;Maybe it&apos;s a big favor.&rdquo;
+
+<p>She showed her acquiescence in her face, as if it were already granted, and he went on:
+
+<p>&ldquo;Of course, I know you won&apos;t use this faking in the interview. But I want more than that. I don&apos;t want you to publish anything at all.&rdquo;
+
+<p>She gave him a quick look with her searching gray eyes, then surprised herself by her answer.
+
+<pb id=pb103 n=103><p>&ldquo;Certainly,&rdquo; she said. &ldquo;It will not be published. I won&apos;t write a line of it.&rdquo;
+
+<p>&ldquo;I knew it,&rdquo; he said simply.
+
+<p>For the moment she was disappointed by the lack of thanks, and the next moment she was glad that he had not thanked her. She sensed the different foundation he was building under this meeting of an hour with her, and she became daringly explorative.
+
+<p>&ldquo;How did you know it?&rdquo; she asked.
+
+<p>&ldquo;I don&apos;t know.&rdquo; He shook his head. &ldquo;I can&apos;t explain it. I knew it as a matter of course. Somehow it seems to me I know a lot about you and me.&rdquo;
+
+<p>&ldquo;But why not publish the interview? As your manager says, it is good advertising.&rdquo;
+
+<p>&ldquo;I know it,&rdquo; he answered slowly. &ldquo;But I don&apos;t want to know you that way. I think it would hurt if you should publish it. I don&apos;t want to think that I knew <pb id=pb104 n=104>you professionally. I&apos;d like to remember our talk here as a talk between a man and a woman. I don&apos;t know whether you understand what I&apos;m driving at. But it&apos;s the way I feel. I want to remember this just as a man and a woman.&rdquo;
+
+<p>As he spoke, in his eyes was all the expression with which a man looks at a woman. She felt the force and beat of him, and she felt strangely tongue-tied and awkward before this man who had been reputed tongue-tied and awkward. He could certainly talk straighter to the point and more convincingly than most men, and what struck her most forcibly was her own inborn certainty that it was mere naïve and simple frankness on his part and not a practised artfulness.
+
+<p>He saw her into her machine, and gave her another thrill when he said good-by. Once again their hands were clasped as he said:
+
+<pb id=pb105 n=105><p>&ldquo;Some day I&apos;ll see you again. I want to see you again. Somehow I have a feeling that the last word has not been said between us.&rdquo;
+
+<p>And as the machine rolled away she was aware of a similar feeling. She had not seen the last of this very disquieting Pat Glendon, king of the bruisers and abysmal brute.
+
+<p>Back in the training quarters, Glendon encountered his perturbed manager.
+
+<p>&ldquo;What did you fire me out for?&rdquo; Stubener demanded. &ldquo;We&apos;re finished. A hell of a mess you&apos;ve made. You&apos;ve never stood for meeting a reporter alone before, and now you&apos;ll see when that interview comes out.&rdquo;
+
+<p>Glendon, who had been regarding him with cool amusement, made as if to turn and pass on, and then changed his mind.
+
+<p>&ldquo;It won&apos;t come out,&rdquo; he said.
+
+<p>Stubener looked up sharply.
+
+<pb id=pb106 n=106><p>&ldquo;I asked her not to,&rdquo; Glendon explained.
+
+<p>Then Stubener exploded.
+
+<p>&ldquo;As if she&apos;d kill a juicy thing like that.&rdquo;
+
+<p>Glendon became very cold and his voice was harsh and grating.
+
+<p>&ldquo;It won&apos;t be published. She told me so. And to doubt it is to call her a liar.&rdquo;
+
+<p>The Irish flame was in his eyes, and by that, and by the unconscious clenching of his passion-wrought hands, Stubener, who knew the strength of them, and of the man he faced, no longer dared to doubt.
+
+
+
+
+
+<pb id=pb107 n=107>
+<div1 id=ch7 n=VII>
+<head>VII</head>
+
+
+<p>It did not take Stubener long to find out that Glendon intended extending the distance of the fight, though try as he would he could get no hint of the number of the round. He wasted no time, however, and privily clinched certain arrangements with Nat Powers and Nat Powers&apos; manager. Powers had a faithful following of bettors, and the betting syndicate was not to be denied its harvest.
+
+<p>On the night of the fight, Maud Sangster was guilty of a more daring unconventionality than any she had yet committed, though no whisper of it leaked out to shock society. Under the protection of the editor, she occupied a ring-side <pb id=pb108 n=108>seat. Her hair and most of her face were hidden under a slouch hat, while she wore a man&apos;s long overcoat that fell to her heels. Entering in the thick of the crowd, she was not noticed; nor did the newspaper men, in the press seats against the ring directly in front of her, recognize her.
+
+<p>As was the growing custom, there were no preliminary bouts, and she had barely gained her seat when roars of applause announced the arrival of Nat Powers. He came down the aisle in the midst of his seconds, and she was almost frightened by the formidable bulk of him. Yet he leaped the ropes as lightly as a man half his weight, and grinned acknowledgment to the tumultuous greeting that arose from all the house. He was not pretty. Two cauliflower ears attested his profession and its attendant brutality, while his broken nose had been so often <pb id=pb109 n=109>spread over his face as to defy the surgeon&apos;s art to reconstruct it.
+
+<p>Another uproar heralded the arrival of Glendon, and she watched him eagerly as he went through the ropes to his corner. But it was not until the tedious time of announcements, introductions, and challenges was over, that the two men threw off their wraps and faced each other in ring costume. Concentrated upon them from overhead was the white glare of many electric lights&mdash;this for the benefit of the moving picture cameras; and she felt, as she looked at the two sharply contrasted men, that it was in Glendon that she saw the thoroughbred and in Powers the abysmal brute. Both looked their parts&mdash;Glendon, clean cut in face and form, softly and massively beautiful, Powers almost asymmetrically rugged and heavily matted with hair.
+
+<p>As they made their preliminary pose <pb id=pb110 n=110>for the cameras, confronting each other in fighting attitudes, it chanced that Glendon&apos;s gaze dropped down through the ropes and rested on her face. Though he gave no sign, she knew, with a swift leap of the heart, that he had recognized her. The next moment the gong sounded, the announcer cried &ldquo;Let her go!&rdquo; and the battle was on.
+
+<p>It was a good fight. There was no blood, no marring, and both were clever. Half of the first round was spent in feeling each other out, but Maud Sangster found the play and feint and tap of the gloves sufficiently exciting. During some of the fiercer rallies in later stages of the fight, the editor was compelled to touch her arm to remind her who she was and where she was.
+
+<p>Powers fought easily and cleanly, as became the hero of half a hundred ring battles, and an admiring claque applauded <pb id=pb111 n=111>his every cleverness. Yet he did not unduly exert himself save in occasional strenuous rallies that brought the audience yelling to its feet in the mistaken notion that he was getting his man.
+
+<p>It was at such a moment, when her unpractised eye could not inform her that Glendon was escaping serious damage, that the editor leaned to her and said:
+
+<p>&ldquo;Young Pat will win all right. He&apos;s a comer, and they can&apos;t stop him. But he&apos;ll win in the sixteenth and not before.&rdquo;
+
+<p>&ldquo;Or after?&rdquo; she asked.
+
+<p>She almost laughed at the certitude of her companion&apos;s negative. She knew better.
+
+<p>Powers was noted for hunting his man from moment to moment and round to round, and Glendon was content to accede to this program. His defense was admirable, and he threw in just enough of offense to whet the edge of the <pb id=pb112 n=112>audience&apos;s interest. Though he knew he was scheduled to lose, Powers had had too long a ring experience to hesitate from knocking his man out if the opportunity offered. He had had the double cross worked too often on him to be chary in working it on others. If he got his chance he was prepared to knock his man out and let the syndicate go hang. Thanks to clever press publicity, the idea was prevalent that at last Young Glendon had met his master. In his heart, Powers, however, knew that it was himself who had encountered the better man. More than once, in the faster in-fighting, he received the weight of punches that he knew had been deliberately made no heavier.
+
+<p>On Glendon&apos;s part, there were times and times when a slip or error of judgment could have exposed him to one of his antagonist&apos;s sledge-hammer blows and <pb id=pb113 n=113>lost him the fight. Yet his was that almost miraculous power of accurate timing and distancing, and his confidence was not shaken by the several close shaves he experienced. He had never lost a fight, never been knocked down, and he had always been so thoroughly the master of the man he faced, that such a possibility was unthinkable.
+
+<p>At the end of the fifteenth round, both men were in good condition, though Powers was breathing a trifle heavily and there were men in the ringside seats offering odds that he would &ldquo;blow up.&rdquo;
+
+<p>It was just before the gong for the sixteenth round struck that Stubener, leaning over Glendon from behind in his corner, whispered:
+
+<p>&ldquo;Are you going to get him now?&rdquo;
+
+<p>Glendon, with a back toss of his head, shook it and laughed mockingly up into his manager&apos;s anxious face.
+
+<pb id=pb114 n=114><p>With the stroke of the gong for the sixteenth round, Glendon was surprised to see Powers cut loose. From the first second it was a tornado of fighting, and Glendon was hard put to escape serious damage. He blocked, clinched, ducked, sidestepped, was rushed backward against the ropes and was met by fresh rushes when he surged out to center. Several times Powers left inviting openings, but Glendon refused to loose the lightning-bolt of a blow that would drop his man. He was reserving that blow for two rounds later. Not in the whole fight had he ever exerted his full strength, nor struck with the force that was in him.
+
+<p>For two minutes, without the slightest let-up, Powers went at him hammer and tongs. In another minute the round would be over and the betting <corr sic=snydicate>syndicate</corr> hard hit. But that minute was not to be. They had just come together in the <pb id=pb115 n=115>center of the ring. It was as ordinary a clinch as any in the fight, save that Powers was struggling and roughing it every instant. Glendon whipped his left over in a crisp but easy jolt to the side of the face. It was like any of a score of similar jolts he had already delivered in the course of the fight. To his amazement he felt Powers go limp in his arms and begin sinking to the floor on sagging, spraddling legs that refused to bear his weight. He struck the floor with a thump, rolled half over on his side, and lay with closed eyes and motionless. The referee, bending above him, was shouting the count.
+
+<p>At the cry of &ldquo;Nine!&rdquo; Powers quivered as if making a vain effort to rise.
+
+<p>&ldquo;Ten!&mdash;and out!&rdquo; cried the referee.
+
+<p>He caught Glendon&apos;s hand and raised it aloft to the roaring audience in token that he was the winner.
+
+<pb id=pb116 n=116><p>For the first time in the ring, Glendon was dazed. It had not been a knockout blow. He could stake his life on that. It had not been to the jaw but to the side of the face, and he knew it had gone there and nowhere else. Yet the man was out, had been counted out, and he had faked it beautifully. That final thump on the floor had been a convincing masterpiece. To the audience it was indubitably a knockout, and the moving picture machines would perpetuate the lie. The editor had called the turn after all, and a crooked turn it was.
+
+<p>Glendon shot a swift glance through the ropes to the face of Maud Sangster. She was looking straight at him, but her eyes were bleak and hard, and there was neither recognition nor expression in them. Even as he looked, she turned away unconcernedly and said something to the man beside her.
+
+<pb id=pb117 n=117><p>Powers&apos; seconds were carrying him to his corner, a seeming limp wreck of a man. Glendon&apos;s seconds were advancing upon him to congratulate him and to remove his gloves. But Stubener was ahead of them. His face was beaming as he caught Glendon&apos;s right glove in both his hands and cried:
+
+<p>&ldquo;Good boy, Pat. I knew you&apos;d do it.&rdquo;
+
+<p>Glendon pulled his glove away. And for the first time in the years they had been together, his manager heard him swear.
+
+<p>&ldquo;You go to hell,&rdquo; he said, and turned to hold out his hands for his seconds to pull off the gloves.
+
+
+
+
+<pb id=pb118 n=118>
+<div1 id=ch8 n=VIII>
+<head>VIII</head>
+
+
+<p>That night, after receiving the editor&apos;s final dictum that there was not a square fighter in the game, Maud Sangster cried quietly for a moment on the edge of her bed, grew angry, and went to sleep hugely disgusted with herself, prize-fighters, and the world in general.
+
+<p>The next afternoon she began work on an interview with Henry Addison that was destined never to be finished. It was in the private room that was accorded her at the &ldquo;Courier-Journal&rdquo; office that the thing happened. She had paused in her writing to glance at a headline in the afternoon paper announcing that Glendon was matched with Tom Cannam, when <pb id=pb119 n=119>one of the door-boys brought in a card. It was Glendon&apos;s.
+
+<p>&ldquo;Tell him I can&apos;t be seen,&rdquo; she told the boy.
+
+<p>In a minute he was back.
+
+<p>&ldquo;He says he&apos;s coming in anyway, but he&apos;d rather have your permission.&rdquo;
+
+<p>&ldquo;Did you tell him I was busy?&rdquo; she asked.
+
+<p>&ldquo;Yes&apos;m, but he said he was coming just the same.&rdquo;
+
+<p>She made no answer, and the boy, his eyes shining with admiration for the importunate visitor, rattled on.
+
+<p>&ldquo;I know&apos;m. He&apos;s a awful big guy. If he started roughhousing he could clean the whole office out. He&apos;s young Glendon, who won the fight last night.&rdquo;
+
+<p>&ldquo;Very well, then. Bring him in. We don&apos;t want the office cleaned out, you know.&rdquo;
+
+<p>No greetings were exchanged when <pb id=pb120 n=120>Glendon entered. She was as cold and inhospitable as a gray day, and neither invited him to a chair nor recognized him with her eyes, sitting half turned away from him at her desk and waiting for him to state his business. He gave no sign of how this cavalier treatment affected him, but plunged directly into his subject.
+
+<p>&ldquo;I want to talk to you,&rdquo; he said shortly. &ldquo;That fight. It did end in that round.&rdquo;
+
+<p>She shrugged her shoulders.
+
+<p>&ldquo;I knew it would.&rdquo;
+
+<p>&ldquo;You didn&apos;t,&rdquo; he retorted. &ldquo;You didn&apos;t. I didn&apos;t.&rdquo;
+
+<p>She turned and looked at him with quiet affectation of boredom.
+
+<p>&ldquo;What is the use?&rdquo; she asked. &ldquo;Prize-fighting is prize-fighting, and we all know what it means. The fight did end in the round I told you it would.&rdquo;
+
+<p>&ldquo;It did,&rdquo; he agreed. &ldquo;But you didn&apos;t <pb id=pb121 n=121>know it would. In all the world you and I were at least two that knew Powers wouldn&apos;t be knocked out in the sixteenth.&rdquo;
+
+<p>She remained silent.
+
+<p>&ldquo;I say you knew he wouldn&apos;t.&rdquo; He spoke peremptorily, and, when she still declined to speak, stepped nearer to her. &ldquo;Answer me,&rdquo; he commanded.
+
+<p>She nodded her head.
+
+<p>&ldquo;But he was,&rdquo; she insisted.
+
+<p>&ldquo;He wasn&apos;t. He wasn&apos;t knocked out at all. Do you get that? I am going to tell you about it, and you are going to listen. I didn&apos;t lie to you. Do you get that? I didn&apos;t lie to you. I was a fool, and they fooled me, and you along with me. You thought you saw him knocked out. Yet the blow I struck was not heavy enough. It didn&apos;t hit him in the right place either. He made believe it did. He faked that knockout.&rdquo;
+
+<pb id=pb122 n=122><p>He paused and looked at her expectantly. And somehow, with a leap and thrill, she knew that she believed him, and she felt pervaded by a warm happiness at the reinstatement of this man who meant nothing to her and whom she had seen but twice in her life.
+
+<p>&ldquo;Well?&rdquo; he demanded, and she thrilled anew at the compellingness of him.
+
+<p>She stood up, and her hand went out to his.
+
+<p>&ldquo;I believe you,&rdquo; she said. &ldquo;And I am glad, most glad.&rdquo;
+
+<p>It was a longer grip than she had anticipated. He looked at her with eyes that burned and to which her own unconsciously answered back. Never was there such a man, was her thought. Her eyes dropped first, and his followed, so that, as before, both gazed at the clasped hands. He made a movement of his whole body toward her, impulsive and involuntary, as <pb id=pb123 n=123>if to gather her to him, then checked himself abruptly, with an unmistakable effort. She saw it, and felt the pull of his hand as it started to draw her to him. And to her amazement she felt the desire to yield, the desire almost overwhelmingly to be drawn into the strong circle of those arms. And had he compelled, she knew that she would not have refrained. She was almost dizzy, when he checked himself and with a closing of his fingers that half crushed hers, dropped her hand, almost flung it from him.
+
+<p>&ldquo;God!&rdquo; he breathed. &ldquo;You were made for me.&rdquo;
+
+<p>He turned partly away from her, sweeping his hand to his forehead. She knew she would hate him forever if he dared one stammered word of apology or explanation. But he seemed to have the way always of doing the right thing where she was concerned. She sank into <pb id=pb124 n=124>her chair, and he into another, first drawing it around so as to face her across the corner of the desk.
+
+<p>&ldquo;I spent last night in a Turkish bath,&rdquo; he said. &ldquo;I sent for an old broken-down bruiser. He was a friend of my father in the old days. I knew there couldn&apos;t be a thing about the ring he didn&apos;t know, and I made him talk. The funny thing was that it was all I could do to convince him that I didn&apos;t know the things I asked him about. He called me the babe in the woods. I guess he was right. I was raised in the woods, and woods is about all I know.
+
+<p>&ldquo;Well, I received an education from that old man last night. The ring is rottener than you told me. It seems everybody connected with it is crooked. The very supervisors that grant the fight permits graft off of the promoters; and the promoters, managers, and fighters graft <pb id=pb125 n=125>off of each other and off the public. It&apos;s down to a system, in one way, and on the other hand they&apos;re always&mdash;do you know what the double cross is?&rdquo; (She nodded.) &ldquo;Well, they don&apos;t seem to miss a chance to give each other the double cross.
+
+<p>&ldquo;The stuff that old man told me took my breath away. And here I&apos;ve been in the thick of it for several years and knew nothing of it. I was a real babe in the woods. And yet I can see how I&apos;ve been fooled. I was so made that nobody could stop me. I was bound to win, and, thanks to Stubener, everything crooked was kept away from me. This morning I cornered Spider Walsh and made him talk. He was my first trainer, you know, and he followed Stubener&apos;s instructions. They kept me in ignorance. Besides, I didn&apos;t herd with the sporting crowd. I spent my time hunting and fishing and <pb id=pb126 n=126>monkeying with cameras and such things. Do you know what Walsh and Stubener called me between themselves?&mdash;the Virgin. I only learned it this morning from Walsh, and it was like pulling teeth. And they were right. I was a little innocent lamb.
+
+<p>&ldquo;And Stubener was using me for crookedness, too, only I didn&apos;t know it. I can look back now and see how it was worked. But you see, I wasn&apos;t interested enough in the game to be suspicious. I was born with a good body and a cool head, I was raised in the open, and I was taught by my father, who knew more about fighting than any man living or dead. It was too easy. The ring didn&apos;t absorb me. There was never any doubt of the outcome. But I&apos;m done with it now.&rdquo;
+
+<p>She pointed to the headline announcing his match with Tom Cannam.
+
+<pb id=pb127 n=127><p>&ldquo;That&apos;s Stubener&apos;s work,&rdquo; he explained. &ldquo;It was programmed months ago. But I don&apos;t care. I&apos;m heading for the mountains. I&apos;ve quit.&rdquo;
+
+<p>She glanced at the unfinished interview on the desk and sighed.
+
+<p>&ldquo;How lordly men are,&rdquo; she said. &ldquo;Masters of destiny. They do as they please&mdash;&rdquo;
+
+<p>&ldquo;From what I&apos;ve heard,&rdquo; he interrupted, &ldquo;you&apos;ve done pretty much as you please. It&apos;s one of the things I like about you. And what has struck me hard from the first was the way you and I understand each other.&rdquo;
+
+<p>He broke off and looked at her with burning eyes.
+
+<p>&ldquo;Well, the ring did one thing for me,&rdquo; he went on. &ldquo;It made me acquainted with you. And when you find the one woman, there&apos;s just one thing to do. Take her in your two hands and don&apos;t <pb id=pb128 n=128>let go. Come on, let us start for the mountains.&rdquo;
+
+<p>It had come with the suddenness of a thunder-clap, and yet she felt that she had been expecting it. Her heart was beating up and almost choking her in a strangely delicious way. Here at least was the primitive and the simple with a vengeance. Then, too, it seemed a dream. Such things did not take place in modern newspaper offices. Love could not be made in such fashion; it only so occurred on the stage and in novels.
+
+<p>He had arisen, and was holding out both hands to her.
+
+<p>&ldquo;I don&apos;t dare,&rdquo; she said in a whisper, half to herself. &ldquo;I don&apos;t dare.&rdquo;
+
+<p>And thereat she was stung by the quick contempt that flashed in his eyes but that swiftly changed to open incredulity.
+
+<p>&ldquo;You&apos;d dare anything you wanted,&rdquo; <pb id=pb129 n=129>he was saying. &ldquo;I know that. It&apos;s not a case of dare, but of want. Do you want?&rdquo;
+
+<p>She had arisen, and was now swaying as if in a dream. It flashed into her mind to wonder if it were hypnotism. She wanted to glance about her at the familiar objects of the room in order to identify herself with reality, but she could not take her eyes from his. Nor did she speak.
+
+<p>He had stepped beside her. His hand was on her arm, and she leaned toward him involuntarily. It was all part of the dream, and it was no longer hers to question anything. It was the great dare. He was right. She could dare what she wanted, and she did want. He was helping her into her jacket. She was thrusting the hat-pins through her hair. And even as she realized it, she found herself walking beside him through the opened <pb id=pb130 n=130>door. The &ldquo;Flight of the Duchess&rdquo; and &ldquo;The Statue and the Bust,&rdquo; darted through her mind. Then she remembered &ldquo;Waring.&rdquo;
+
+<p>&ldquo;&lsquo;What&apos;s become of Waring?&rsquo;&rdquo; she murmured.
+
+<p>&ldquo;&lsquo;Land travel or sea-faring?&rsquo;&rdquo; he murmured back.
+
+<p>And to her this kindred sufficient note was a vindication of her madness.
+
+<p>At the entrance of the building he raised his hand to call a taxi, but was stopped by her touch on his arm.
+
+<p>&ldquo;Where are we going?&rdquo; she breathed.
+
+<p>&ldquo;To the Ferry. We&apos;ve just time to catch that Sacramento train.&rdquo;
+
+<p>&ldquo;But I can&apos;t go this way,&rdquo; she protested. &ldquo;I ... I haven&apos;t even a change of handkerchiefs.&rdquo;
+
+<p>He held up his hand again before replying.
+
+<p>&ldquo;You can shop in Sacramento. We&apos;ll <pb id=pb131 n=131>get married there and catch the night overland north. I&apos;ll arrange everything by telegraph from the train.&rdquo;
+
+<p>As the cab drew to the curb, she looked quickly about her at the familiar street and the familiar throng, then, with almost a flurry of alarm, into Glendon&apos;s face.
+
+<p>&ldquo;I don&apos;t know a thing about you,&rdquo; she said.
+
+<p>&ldquo;We know everything about each other,&rdquo; was his answer.
+
+<p>She felt the support and urge of his arms, and lifted her foot to the step. The next moment the door had closed, he was beside her, and the cab was heading down Market Street. He passed his arm around her, drew her close, and kissed her. When next she glimpsed his face she was certain that it was dyed with a faint blush.
+
+<p>&ldquo;I ... I&apos;ve heard there was an <pb id=pb132 n=132>art in kissing,&rdquo; he stammered. &ldquo;I don&apos;t know anything about it myself, but I&apos;ll learn. You see, you&apos;re the first woman I ever kissed.&rdquo;
+
+
+
+
+<pb id=pb133 n=133>
+<div1 id=ch9 n=IX>
+<head>IX</head>
+
+
+<p>Where a jagged peak of rock thrust above the vast virgin forest, reclined a man and a woman. Beneath them, on the edge of the trees, were tethered two horses. Behind each saddle were a pair of small saddle-bags. The trees were monotonously huge. Towering hundreds of feet into the air, they ran from eight to ten and twelve feet in diameter. Many were much larger. All morning they had toiled up the divide through this unbroken forest, and this peak of rock had been the first spot where they could get out of the forest in order to see the forest.
+
+<p>Beneath them and away, far as they could see, lay range upon range of haze-empurpled <pb id=pb134 n=134>mountains. There was no end to these ranges. They rose one behind another to the dim, distant skyline, where they faded away with a vague promise of unending extension beyond. There were no clearings in the forest; north, south, east, and west, untouched, unbroken, it covered the land with its mighty growth.
+
+<p>They lay, feasting their eyes on the sight, her hand clasped in one of his; for this was their honeymoon, and these were the redwoods of Mendocino. Across from Shasta they had come, with horses and saddle-bags, and down through the wilds of the coast counties, and they had no plan except to continue until some other plan entered their heads. They were roughly dressed, she in travel-stained khaki, he in overalls and woolen shirt. The latter was open at the sunburned neck, and in his hugeness he <pb id=pb135 n=135>seemed a fit dweller among the forest giants, while for her, as a dweller with him, there were no signs of aught else but happiness.
+
+<p>&ldquo;Well, Big Man,&rdquo; she said, propping herself up on an elbow to gaze at him, &ldquo;it is more wonderful than you promised. And we are going through it together.&rdquo;
+
+<p>&ldquo;And there&apos;s a lot of the rest of the world we&apos;ll go through together,&rdquo; he answered, shifting his position so as to get her hand in both of his.
+
+<p>&ldquo;But not till we&apos;ve finished with this,&rdquo; she urged. &ldquo;I seem never to grow tired of the big woods ... and of you.&rdquo;
+
+<p>He slid effortlessly into a sitting posture and gathered her into his arms.
+
+<p>&ldquo;Oh, you lover,&rdquo; she whispered. &ldquo;And I had given up hope of finding such a one.&rdquo;
+
+<p>&ldquo;And I never hoped at all. I must <pb id=pb136 n=136>just have known all the time that I was going to find you. Glad?&rdquo;
+
+<p>Her answer was a soft pressure where her hand rested on his neck, and for long minutes they looked out over the great woods and dreamed.
+
+<p>&ldquo;You remember I told you how I ran away from the red-haired school teacher? That was the first time I saw this country. I was on foot, but forty or fifty miles a day was play for me. I was a regular Indian. I wasn&apos;t thinking about you then. Game was pretty scarce in the redwoods, but there was plenty of fine trout. That was when I camped on these rocks. I didn&apos;t dream that some day I&apos;d be back with you, YOU.&rdquo;
+
+<p>&ldquo;And be a champion of the ring, too,&rdquo; <corr sic=he>she</corr> suggested.
+
+<p>&ldquo;No; I didn&apos;t think about that at all. Dad had always told me I was going to be, and I took it for granted. You see, <pb id=pb137 n=137>he was very wise. He was a great man.&rdquo;
+
+<p>&ldquo;But he didn&apos;t see you leaving the ring.&rdquo;
+
+<p>&ldquo;I don&apos;t know. He was so careful in hiding its crookedness from me, that I think he feared it. I&apos;ve told you about the contract with Stubener. Dad put in that clause about crookedness. The first crooked thing my manager did was to break the contract.&rdquo;
+
+<p>&ldquo;And yet you are going to fight this Tom Cannam. Is it worth while?&rdquo;
+
+<p>He looked at her quickly.
+
+<p>&ldquo;Don&apos;t you want me to?&rdquo;
+
+<p>&ldquo;Dear lover, I want you to do whatever you want.&rdquo;
+
+<p>So she said, and to herself, her words still ringing in her ears, she marveled that she, not least among the stubbornly independent of the breed of Sangster, should utter them. Yet she knew they were true, and she was glad.
+
+<pb id=pb138 n=138><p>&ldquo;It will be fun,&rdquo; he said.
+
+<p>&ldquo;But I don&apos;t understand all the gleeful details.&rdquo;
+
+<p>&ldquo;I haven&apos;t worked them out yet. You might help me. In the first place I&apos;m going to double-cross Stubener and the betting syndicate. It will be part of the joke. I am going to put Cannam out in the first round. For the first time I shall be really angry when I fight. Poor Tom Cannam, who&apos;s as crooked as the rest, will be the chief sacrifice. You see, I intend to make a speech in the ring. It&apos;s unusual, but it will be a success, for I am going to tell the audience all the inside workings of the game. It&apos;s a good game, too, but they&apos;re running it on business principles, and that&apos;s what spoils it. But there, I&apos;m giving the speech to you instead of at the ring.&rdquo;
+
+<p>&ldquo;I wish I could be there to hear,&rdquo; she said.
+
+<pb id=pb139 n=139><p>He looked at her and debated.
+
+<p>&ldquo;I&apos;d like to have you. But it&apos;s sure to be a rough time. There is no telling what may happen when I start my program. But I&apos;ll come straight to you as soon as it&apos;s over. And it will be the last appearance of Young Glendon in the ring, in any ring.&rdquo;
+
+<p>&ldquo;But, dear, you&apos;ve never made a speech in your life,&rdquo; she objected. &ldquo;You might fail.&rdquo;
+
+<p>He shook his head positively.
+
+<p>&ldquo;I&apos;m Irish,&rdquo; he announced, &ldquo;and what Irishman was there who couldn&apos;t speak?&rdquo; He paused to laugh merrily. &ldquo;Stubener thinks I&apos;m crazy. Says a man can&apos;t train on matrimony. A lot he knows about matrimony, or me, or you, or anything except real estate and fixed fights. But I&apos;ll show him that night, and poor Tom, too. I really feel sorry for Tom.&rdquo;
+
+<pb id=pb140 n=140><p>&ldquo;My dear abysmal brute is going to behave most abysmally and brutally, I fear,&rdquo; she murmured.
+
+<p>He laughed.
+
+<p>&ldquo;I&apos;m going to make a noble attempt at it. Positively my last appearance, you know. And then it will be you, YOU. But if you don&apos;t want that last appearance, say the word.&rdquo;
+
+<p>&ldquo;Of course I want it, Big Man. I want my Big Man for himself, and to be himself he must be himself. If you want this, I want it for you, and for myself, too. Suppose I said I wanted to go on the stage, or to the South Seas or the North Pole?&rdquo;
+
+<p>He answered slowly, almost solemnly.
+
+<p>&ldquo;Then I&apos;d say go ahead. Because you are you and must be yourself and do whatever you want. I love you because you are you.&rdquo;
+
+<p>&ldquo;And we&apos;re both a silly pair of lovers,&rdquo; <pb id=pb141 n=141>she said, when his embrace had relaxed.
+
+<p>&ldquo;Isn&apos;t it great!&rdquo; he cried.
+
+<p>He stood up, measured the sun with his eye, and extended his hand out over the big woods that covered the serried, purple ranges.
+
+<p>&ldquo;We&apos;ve got to sleep out there somewhere. It&apos;s thirty miles to the nearest camp.&rdquo;
+
+
+
+
+<pb id=pb142 n=142>
+<div1 id=ch10 n=X>
+<head>X</head>
+
+
+<p>Who, of all the sports present, will ever forget the memorable night at the Golden Gate Arena, when Young Glendon put Tom Cannam to sleep and an even greater one than Tom Cannam, kept the great audience on the ragged edge of riot for an hour, caused the subsequent graft investigation of the supervisors and the indictments of the contractors and the building commissioners, and pretty generally disrupted the whole fight game. It was a complete surprise. Not even Stubener had the slightest apprehension of what was coming. It was true that his man had been insubordinate after the Nat Powers affair, and had run off and got <pb id=pb143 n=143>married; but all that was over. Young Pat had done the expected, swallowed the inevitable crookedness of the ring, and come back into it again.
+
+<p>The Golden Gate Arena was new. This was its first fight, and it was the biggest building of the kind San Francisco had ever erected. It seated twenty-five thousand, and every seat was occupied. Sports had traveled from all the world to be present, and they had paid fifty dollars for their ring-side seats. The cheapest seat in the house had sold for five dollars.
+
+<p>The old familiar roar of applause went up when Billy Morgan, the veteran announcer, climbed through the ropes and bared his gray head. As he opened his mouth to speak, a heavy crash came from a near section where several tiers of low seats had collapsed. The crowd broke into loud laughter and shouted jocular regrets <pb id=pb144 n=144>and advice to the victims, none of whom had been hurt. The crash of the seats and the hilarious uproar caused the captain of police in charge to look at one of his lieutenants and lift his brows in token that they would have their hands full and a lively night.
+
+<p>One by one, welcomed by uproarious applause, seven doughty old ring heroes climbed through the ropes to be introduced. They were all ex-heavy-weight champions of the world. Billy Morgan accompanied each presentation to the audience with an appropriate phrase. One was hailed as &ldquo;Honest John&rdquo; and &ldquo;Old Reliable,&rdquo; another was &ldquo;the squarest two-fisted fighter the ring ever saw.&rdquo; And of others: &ldquo;the hero of a hundred battles and never threw one and never lay down&rdquo;; &ldquo;the gamest of the old guard&rdquo;; &ldquo;the only one who ever came back&rdquo;; &ldquo;the greatest warrior of <pb id=pb145 n=145>them all&rdquo;; and &ldquo;the hardest nut in the ring to crack.&rdquo;
+
+<p>All this took time. A speech was insisted on from each of them, and they mumbled and muttered in reply with proud blushes and awkward shamblings. The longest speech was from &ldquo;Old Reliable&rdquo; and lasted nearly a minute. Then they had to be photographed. The ring filled up with celebrities, with champion wrestlers, famous conditioners, and veteran time-keepers and referees. Light-weights and middle-weights swarmed. Everybody seemed to be challenging everybody. Nat Powers was there, demanding a return match from Young Glendon, and so were all the other shining lights whom Glendon had snuffed out. Also, they all challenged Jim Hanford, who, in turn, had to make his statement, which was to the effect that he would accord the next fight to the winner <pb id=pb146 n=146>of the one that was about to take place. The audience immediately proceeded to name the winner, half of it wildly crying &ldquo;Glendon,&rdquo; and the other half &ldquo;Powers.&rdquo; In the midst of the pandemonium another tier of seats went down, and half a dozen rows were on between cheated ticket holders and the stewards who had been reaping a fat harvest. The captain despatched a message to headquarters for additional police details.
+
+<p>The crowd was feeling good. When Cannam and Glendon made their ring entrances the Arena resembled a national political convention. Each was cheered for a solid five minutes. The ring was now cleared. Glendon sat in his corner surrounded by his seconds. As usual, Stubener was at his back. Cannam was introduced first, and after he had scraped and ducked his head, he was compelled to respond to the cries for a speech. He <pb id=pb147 n=147>stammered and halted, but managed to grind out several ideas.
+
+<p>&ldquo;I&apos;m proud to be here to-night,&rdquo; he said, and found space to capture another thought while the applause was thundering. &ldquo;I&apos;ve fought square. I&apos;ve fought square all my life. Nobody can deny that. And I&apos;m going to do my best to-night.&rdquo;
+
+<p>There were loud cries of: &ldquo;That&apos;s right, Tom!&rdquo; &ldquo;We know that!&rdquo; &ldquo;Good boy, Tom!&rdquo; &ldquo;You&apos;re the boy to fetch the bacon home!&rdquo;
+
+<p>Then came Glendon&apos;s turn. From him, likewise, a speech was demanded, though for principals to give speeches was an unprecedented thing in the prize-ring. Billy Morgan held up his hand for silence, and in a clear, powerful voice Glendon began.
+
+<p>&ldquo;Everybody has told you they were proud to be here to-night,&rdquo; he said. &ldquo;I <pb id=pb148 n=148>am not&rdquo; The audience was startled, and he paused long enough to let it sink home, &ldquo;I am not proud of my company. You wanted a speech. I&apos;ll give you a real one. This is my last fight. After to-night I leave the ring for good. Why? I have already told you. I don&apos;t like my company. The prize-ring is so crooked that no man engaged in it can hide behind a corkscrew. It is rotten to the core, from the little professional clubs right up to this affair to-night.&rdquo;
+
+<p>The low rumble of astonishment that had been rising at this point burst into a roar. There were loud boos and hisses, and many began crying: &ldquo;Go on with the fight!&rdquo; &ldquo;We want the fight!&rdquo; &ldquo;Why don&apos;t you fight?&rdquo; Glendon, waiting, noted that the principal disturbers near the ring were promoters and managers and fighters. In vain did he strive <pb id=pb149 n=149>to make himself heard. The audience was divided, half crying out, &ldquo;Fight!&rdquo; and the other half, &ldquo;Speech! Speech!&rdquo;
+
+<p>Ten minutes of <corr sic=hopeles>hopeless</corr> madness prevailed. Stubener, the referee, the owner of the Arena, and the promoter of the fight, pleaded with Glendon to go on with the fight. When he refused, the referee declared that he would award the fight in forfeit to Cannam if Glendon did not fight.
+
+<p>&ldquo;You can&apos;t do it,&rdquo; the latter retorted. &ldquo;I&apos;ll sue you in all the courts if you try that on, and I&apos;ll not promise you that you&apos;ll survive this crowd if you cheat it out of the fight. Besides, I&apos;m going to fight. But before I do I&apos;m going to finish my speech.&rdquo;
+
+<p>&ldquo;But it&apos;s against the rules,&rdquo; protested the referee.
+
+<p>&ldquo;It&apos;s nothing of the sort. There&apos;s not a word in the rules against ring-side <pb id=pb150 n=150>speeches. Every big fighter here to-night has made a speech.&rdquo;
+
+<p>&ldquo;Only a few words,&rdquo; shouted the promoter in Glendon&apos;s ear. &ldquo;But you&apos;re giving a lecture.&rdquo;
+
+<p>&ldquo;There&apos;s nothing in the rules against lectures,&rdquo; Glendon answered. &ldquo;And now you fellows get out of the ring or I&apos;ll throw you out.&rdquo;
+
+<p>The promoter, apoplectic and struggling, was dropped over the ropes by his coat-collar. He was a large man, but so easily had Glendon done it with one hand that the audience went wild with delight. The cries for a speech increased in volume. Stubener and the owner beat a wise retreat. Glendon held up his hands to be heard, whereupon those that shouted for the fight redoubled their efforts. Two or three tiers of seats crashed down, and numbers who had thus lost their places, added to the turmoil <pb id=pb151 n=151>by making a concerted rush to squeeze in on the still intact seats, while those behind, blocked from sight of the ring, yelled and raved for them to sit down.
+
+<p>Glendon walked to the ropes and spoke to the police captain. He was compelled to bend over and shout in his ear.
+
+<p>&ldquo;If I don&apos;t give this speech,&rdquo; he said, &ldquo;this crowd will wreck the place. If they break <corr sic=lose>loose</corr> you can never hold them, you know that. Now you&apos;ve got to help. You keep the ring clear and I&apos;ll silence the crowd.&rdquo;
+
+<p>He went back to the center of the ring and again held up his hands.
+
+<p>&ldquo;You want that speech?&rdquo; he shouted in a tremendous voice.
+
+<p>Hundreds near the ring heard him and cried &ldquo;Yes!&rdquo;
+
+<p>&ldquo;Then let every man who wants to hear shut up the noise-maker next to him!&rdquo;
+
+<pb id=pb152 n=152><p>The advice was taken, so that when he repeated it, his voice penetrated farther. Again and again he shouted it, and slowly, zone by zone, the silence pressed outward from the ring, accompanied by a muffled undertone of smacks and thuds and scuffles as the obstreperous were subdued by their neighbors. Almost had all confusion been smothered, when a tier of seats near the ring went down. This was greeted with fresh roars of laughter, which of itself died away, so that a lone voice, far back, was heard distinctly as it piped: &ldquo;Go on, Glendon! We&apos;re with you!&rdquo;
+
+<p>Glendon had the Celt&apos;s intuitive knowledge of the psychology of the crowd. He knew that what had been a vast disorderly mob five minutes before was now tightly in hand, and for added effect he deliberately delayed. Yet the delay was just long enough and not a second too long. <pb id=pb153 n=153>For thirty seconds the silence was complete, and the effect produced was one of awe. Then, just as the first faint hints of restlessness came to his ears, he began to speak:
+
+<p>&ldquo;When I finish this speech,&rdquo; he said, &ldquo;I am going to fight. I promise you it will be a real fight, one of the few real fights you have ever seen. I am going to get my man in the shortest possible time. Billy Morgan, in making his final announcement, will tell you that it is to be a forty-five-round contest. Let me tell you that it will be nearer forty-five seconds.
+
+<p>&ldquo;When I was interrupted I was telling you that the ring was rotten. It is&mdash;from top to bottom. It is run on business principles, and you all know what business principles are. Enough said. You are the suckers, every last one of you that is not making anything out of it. <pb id=pb154 n=154>Why are the seats falling down to-night? Graft. Like the fight game, they were built on business principles.&rdquo;
+
+<p>He now held the audience stronger than ever, and knew it.
+
+<p>&ldquo;There are three men squeezed on two seats. I can see that everywhere. What does it mean? Graft. The stewards don&apos;t get any wages. They are supposed to graft. Business principles again. You pay. Of course you pay. How are the fight permits obtained? Graft. And now let me ask you: if the men who build the seats graft, if the stewards graft, if the authorities graft, why shouldn&apos;t those higher up in the fight game graft? They do. And you pay.
+
+<p>&ldquo;And let me tell you it is not the fault of the fighters. They don&apos;t run the game. The promoters and managers run it; they&apos;re the business men. The fighters are only fighters. They begin <pb id=pb155 n=155>honestly enough, but the managers and promoters make them give in or kick them out. There have been straight fighters. And there are now a few, but they don&apos;t earn much as a rule. I guess there have been straight managers. Mine is about the best of the boiling. But just ask him how much he&apos;s got salted down in real estate and apartment houses.&rdquo;
+
+<p>Here the uproar began to drown his voice.
+
+<p>&ldquo;Let every man who wants to hear shut up the man alongside of him!&rdquo; Glendon instructed.
+
+<p>Again, like the murmur of a surf, there was a rustling of smacks, and thuds, and scuffles, and the house quieted down.
+
+<p>&ldquo;Why does every fighter work overtime insisting that he&apos;s always fought square? Why are they called Honest Johns, and Honest Bills, and Honest <pb id=pb156 n=156>Blacksmiths, and all the rest? Doesn&apos;t it ever strike you that they seem to be afraid of something? When a man comes to you shouting he is honest, you get suspicious. But when a prize-fighter passes the same dope out to you, you swallow it down.
+
+<p>&ldquo;May the best man win! How often have you heard Billy Morgan say that! Let me tell you that the best man doesn&apos;t win so often, and when he does it&apos;s usually arranged for him. Most of the grudge fights you&apos;ve heard or seen were arranged, too. It&apos;s a program. The whole thing is programmed. Do you think the promoters and managers are in it for their health? They&apos;re not. They&apos;re business men.
+
+<p>&ldquo;Tom, Dick, and Harry are three fighters. Dick is the best man. In two fights he could prove it. But what happens? Tom licks Harry. Dick licks <pb id=pb157 n=157>Tom. Harry licks Dick. Nothing proved. Then come the return matches. Harry licks Tom. Tom licks Dick. Dick licks Harry. Nothing proved. Then they try again. Dick is kicking. Says he wants to get along in the game. So Dick licks Tom, and Dick licks Harry. Eight fights to prove Dick the best man, when two could have done it. All arranged. A regular program. And you pay for it, and when your seats don&apos;t break down you get robbed of them by the stewards.
+
+<p>&ldquo;It&apos;s a good game, too, if it were only square. The fighters would be square if they had a chance. But the graft is too big. When a handful of men can divide up three-quarters of a million dollars on three fights&mdash;&rdquo;
+
+<p>A wild outburst compelled him to stop. Out of the medley of cries from all over the house, he could distinguish such as <pb id=pb158 n=158>&ldquo;What million dollars?&rdquo; &ldquo;What three fights?&rdquo; &ldquo;Tell us!&rdquo; &ldquo;Go on!&rdquo; Likewise there were boos and hisses, and cries of &ldquo;Muckraker! Muckraker!&rdquo;
+
+<p>&ldquo;Do you want to hear?&rdquo; Glendon shouted. &ldquo;Then keep order!&rdquo;
+
+<p>Once more he compelled the impressive half minute of silence.
+
+<p>&ldquo;What is Jim Hanford planning? What is the program his crowd and mine are framing up? They know I&apos;ve got him. He knows I&apos;ve got him. I can whip him in one fight. But he&apos;s the champion of the world. If I don&apos;t give in to the program, they&apos;ll never give me a chance to fight him. The program calls for three fights. I am to win the first fight. It will be pulled off in Nevada if San Francisco won&apos;t stand for it. We are to make it a good fight. To make it good, each of us will put up a side bet of twenty thousand. It will be <pb id=pb159 n=159>real money, but it won&apos;t be a real bet. Each gets his own slipped back to him. The same way with the purse. We&apos;ll divide it evenly, though the public division will be thirty-five and sixty-five. The purse, the moving picture royalties, the advertisements, and all the rest of the drags won&apos;t be a cent less than two hundred and fifty thousand. We&apos;ll divide it, and go to work on the return match. Hanford will win that, and we divide again. Then comes the third fight; I win as I have every right to; and we have taken three-quarters of a million out of the pockets of the fighting public. That&apos;s the program, but the money is dirty. And that&apos;s why I am quitting the ring to-night&mdash;&rdquo;
+
+<p>It was at this moment that Jim Hanford, kicking a clinging policeman back among the seat-holders, heaved his huge frame through the ropes, bellowing:
+
+<pb id=pb160 n=160><p>&ldquo;It&apos;s a lie!&rdquo;
+
+<p>He rushed like an infuriated bull at Glendon, who sprang back, and then, instead of meeting the rush, ducked cleanly away. Unable to check himself, the big man fetched up against the ropes. Flung back by the spring of them, he was turning to make another rush, when Glendon landed him. Glendon, cool, clear-seeing, distanced his man perfectly to the jaw and struck the first full-strength blow of his career. All his strength, and his reserve of strength, went into that one smashing muscular explosion.
+
+<p>Hanford was dead in the air&mdash;in so far as unconsciousness may resemble death. So far as he was concerned, he ceased at the moment of contact with Glendon&apos;s fist. His feet left the floor and he was in the air until he struck the topmost rope. His inert body sprawled across it, sagged at the middle, and fell through <pb id=pb161 n=161>the ropes and down out of the ring upon the heads of the men in the press seats.
+
+<p>The audience broke loose. It had already seen more than it had paid to see, for the great Jim Hanford, the world champion, had been knocked out. It was unofficial, but it had been with a single punch. Never had there been such a night in fistiana. Glendon looked ruefully at his damaged knuckles, cast a glance through the ropes to where Hanford was groggily coming to, and held up his hands. He had clinched his right to be heard, and the audience grew still.
+
+<p>&ldquo;When I began to fight,&rdquo; he said, &ldquo;they called me &lsquo;One-Punch Glendon.&rsquo; You saw that punch a moment ago. I always had that punch. I went after my men and got them on the jump, though I was careful not to hit with all my might. Then I was educated. My manager told <pb id=pb162 n=162>me it wasn&apos;t fair to the crowd. He advised me to make long fights so that the crowd could get a run for its money. I was a fool, a mutt. I was a green lad from the mountains. So help me God, I swallowed it as the truth. My manager used to talk over with me what round I would put my man out in. Then he tipped it off to the betting syndicate, and the betting syndicate went to it. Of course you paid. But I am glad for one thing. I never touched a cent of the money. They didn&apos;t dare offer it to me, because they knew it would give the game away.
+
+<p>&ldquo;You remember my fight with Nat Powers. I never knocked him out. I had got suspicious. So the gang framed it up with him. I didn&apos;t know. I intended to let him go a couple of rounds over the sixteenth. That last punch in the sixteenth didn&apos;t shake him. But he <pb id=pb163 n=163>faked the knock-out just the same and fooled all of you.&rdquo;
+
+<p>&ldquo;How about to-night?&rdquo; a voice called out. &ldquo;Is it a frame-up?&rdquo;
+
+<p>&ldquo;It is,&rdquo; was Glendon&apos;s answer. &ldquo;How&apos;s the syndicate betting? That Cannam will last to the fourteenth.&rdquo;
+
+<p>Howls and hoots went up. For the last time Glendon held up his hand for silence.
+
+<p>&ldquo;I&apos;m almost done now. But I want to tell you one thing. The syndicate gets landed to-night. This is to be a square fight. Tom Cannam won&apos;t last till the fourteenth round. He won&apos;t last the first round.&rdquo;
+
+<p>Cannam sprang to his feet in his corner and cried out in a fury:
+
+<p>&ldquo;You can&apos;t do it. The man don&apos;t live who can get me in one round!&rdquo;
+
+<p>Glendon ignored him and went on.
+
+<p>&ldquo;Once now in my life I have struck <pb id=pb164 n=164>with all my strength. You saw that a moment ago when I caught Hanford. To-night, for the second time, I am going to hit with all my strength&mdash;that is, if Cannam doesn&apos;t jump through the ropes right now and get away. And now I&apos;m ready.&rdquo;
+
+<p>He went to his corner and held out his hands for his gloves. In the opposite corner Cannam raged while his seconds tried vainly to calm him. At last Billy Morgan managed to make the final announcement.
+
+<p>&ldquo;This will be a forty-five round contest,&rdquo; he shouted. &ldquo;Marquis of Queensbury Rules! And may the best man win! Let her go!&rdquo;
+
+<p>The gong struck. The two men advanced. Glendon&apos;s right hand was extended for the customary shake, but Cannam, with an angry toss of the head, refused to take it. To the general surprise, <pb id=pb165 n=165>he did not rush. Angry though he was, he fought carefully, his touched pride impelling him to bend every effort to last out the round. Several times he struck, but he struck cautiously, never relaxing his defense. Glendon hunted him about the ring, ever advancing with the remorseless tap-tap of his left foot. Yet he struck no blows, nor attempted to strike. He even dropped his hands to his sides and hunted the other defenselessly in an effort to draw him out. Cannam grinned defiantly, but declined to take advantage of the proffered opening.
+
+<p>Two minutes passed, and then a change came over Glendon. By every muscle, by every line of his face, he advertised that the moment had come for him to get his man. Acting it was, and it was well acted. He seemed to have become a thing of steel, as hard and pitiless as steel. The effect was apparent on Cannam, <pb id=pb166 n=166>who redoubled his caution. Glendon quickly worked him into a corner and herded and held him there. Still he struck no blow, nor attempted to strike, and the suspense on Cannam&apos;s part grew painful. In vain he tried to work out of the corner, while he could not summon resolution to rush upon his opponent in an attempt to gain the respite of a clinch.
+
+<p>Then it came&mdash;a swift series of simple feints that were muscle flashes. Cannam was dazzled. So was the audience. No two of the onlookers could agree afterward as to what took place. Cannam ducked one feint and at the same time threw up his face guard to meet another feint for his jaw. He also attempted to change position with his legs. Ring-side witnesses swore that they saw Glendon start the blow from his right hip and leap forward like a tiger to add the weight of his body to it. Be that as it may, the <pb id=pb167 n=167>blow caught Cannam on the point of the chin at the moment of his shift of position. And like Hanford, he was unconscious in the air before he struck the ropes and fell through on the heads of the reporters.
+
+<p>Of what happened afterward that night in the Golden Gate Arena, columns in the newspapers were unable adequately to describe. The police kept the ring clear, but they could not save the Arena. It was not a riot. It was an orgy. Not a seat was left standing. All over the great hall, by main strength, crowding and jostling to lay hands on beams and boards, the crowd uprooted and over-turned. Prize-fighters sought protection of the police, but there were not enough police to escort them out, and fighters, managers, and promoters were beaten and battered. Jim Hanford alone was spared. His jaw, prodigiously swollen, <pb id=pb168 n=168>earned him this mercy. Outside, when finally driven from the building, the crowd fell upon a new seven-thousand-dollar motor car belonging to a well-known fight promoter and reduced it to scrapiron and kindling wood.
+
+<p>Glendon, unable to dress amid the wreckage of dressing rooms, gained his automobile, still in his ring costume and wrapped in a bath robe, but failed to escape. By weight of numbers the crowd caught and held his machine. The police were too busy to rescue him, and in the end a compromise was effected, whereby the car was permitted to proceed at a walk escorted by five thousand cheering madmen.
+
+<p>It was midnight when this storm swept past Union Square and down upon the St. Francis. Cries for a speech went up, and though at the hotel entrance, Glendon was good-naturedly restrained from escaping. <pb id=pb169 n=169>He even tried leaping out upon the heads of the enthusiasts, but his feet never touched the pavement. On heads and shoulders, clutched at and uplifted by every hand that could touch his body, he went back through the air to the machine. Then he gave his speech, and Maud Glendon, looking down from an upper window at her young Hercules towering on the seat of the automobile, knew, as she always knew, that he meant it when he repeated that he had fought his last fight and retired from the ring forever.
+
+
+
+<trailer rend="align(center)">The End</trailer>
+
+
+
+<pb id=pb170 n=170>
+</body>
+<back id=backmatter>
+<div1 id=ads type=Advertisements>
+
+<p rend="align(center) font-size(large) font-weight(bold)">Other Great Books by Jack London
+
+<p rend="align(center) font-size(xx-large) font-weight(bold)">Smoke Bellew
+
+<p>The sting of real appetite, the goodly ache of fatigue, the rush of mad, strong blood that bites like wine through all one&apos;s body as work is done, love and comradeship such as the world of civilization seldom knows&mdash;all these are vividly portrayed in this splendid tale of adventure and love in the Klondike.
+
+<p rend="align(center)"><hi>Eight full-page illustrations by Monahan. 
+<lb>Price $1.30 net, postage 13 cents.</hi>
+
+
+<p rend="align(center) font-size(xx-large) font-weight(bold)">The Night-Born
+
+<p>A woman good to look upon, if unlettered, of clean but sordid life, set free from the pots and kettles of a Juneau kitchen by chance reading of Thoreau&apos;s &ldquo;Cry of the Human&rdquo;&mdash;a woman who finds her freedom and her joy queening a tribe of wild Indians and several thousand square miles of Arctic hunting territory&mdash;this is the heroine Jack London creates for the story which opens this collection of short tales. Jack London is at his splendid best perhaps when his people and his scenes are set in the far north; but here are some of his more notable short stories, with widely varied settings and character, but with a touch of &ldquo;the night-born&rdquo; wildness in all.
+
+<p rend="align(center)">Frontispiece in color. Price $1.25 net, postage extra.
+
+<p rend="align(center) font-size(small) font-weight(bold)">At all book-stores. Published by
+
+<p rend="align(center) font-size(large) font-weight(bold)">THE CENTURY CO.
+
+
+
+</div1>
+
+
+<divGen type=toc id=toc>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[X] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&ldquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.  ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->

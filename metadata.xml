@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Abysmal Brute</dc:title>
+      <dc:creator>Jack London (1876–1916)</dc:creator>
+      <dc:creator>Gordon Grant (1875–1962)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2017-11-12</dc:publisher>
+      <dc:date>2017-11-12</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans are available from The Internet Archive (copy 1, 2).
+(Based on the available metadata, this work is likely to be subject to copyright in jurisdictions where copyright lasts for life plus 70 years until at least 1 January 2033.)</dc:rights>
+      <dc:subject>Boxers (Sports)</dc:subject>
+      <dc:subject>Boxing stories</dc:subject>
+      <dc:identifier>pg:55948</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
